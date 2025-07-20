@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Miho_Ability_Jump.label>Прыжок</Miho_Ability_Jump.label>
+  <Miho_Ability_Jump.description>Прыжок на большую дистанцию с помощью усиленных механитовых мышц.</Miho_Ability_Jump.description>
+  <Miho_Ability_Jump.verbProperties.label>прыжок</Miho_Ability_Jump.verbProperties.label>
+
+  <Miho_Ability_StunTalisman.label>Талисман Оглушения</Miho_Ability_StunTalisman.label>
+  <Miho_Ability_StunTalisman.description>Бросает талисман, который временно оглушает цель.</Miho_Ability_StunTalisman.description>
+
+  <Miho_Ability_Hawk.label>Охотничий Ястреб</Miho_Ability_Hawk.label>
+  <Miho_Ability_Hawk.description>Выпускает ястреба, настойчиво атакующего врага.</Miho_Ability_Hawk.description>
+
+  <Miho_Ability_Ensnare.label>Охотничья Сеть</Miho_Ability_Ensnare.label>
+  <Miho_Ability_Ensnare.description>Стреляет механитовой сетью, замедляющей цель. Уже замедленные противники будут выведены из строя.</Miho_Ability_Ensnare.description>
+
+  <Miho_Ability_Fireball_Small.label>Лисьий Уголёк</Miho_Ability_Fireball_Small.label>
+  <Miho_Ability_Fireball_Small.description>Создаёт маленькое лисье пламя, способное убить человека. Скорее это концентрация энергии, чем призыв огня.</Miho_Ability_Fireball_Small.description>
+
+  <Miho_Ability_Fireball.label>Лисье Пламя</Miho_Ability_Fireball.label>
+  <Miho_Ability_Fireball.description>Создаёт мощное лисье пламя. Вернее сказать, энергия собирается, а не призывается.</Miho_Ability_Fireball.description>
+
+  <Miho_Ability_Fireball_Adept.label>Стрелы Лисьего Пламени</Miho_Ability_Fireball_Adept.label>
+  <Miho_Ability_Fireball_Adept.description>Стреляет лисьими огненными стрелами с отличной пробивной способностью на дальних дистанциях.</Miho_Ability_Fireball_Adept.description>
+
+  <Miho_Ability_PredatoryGaze.label>Громовое Копьё</Miho_Ability_PredatoryGaze.label>
+  <Miho_Ability_PredatoryGaze.description>Нет щита во Вселенной, способного отразить механитовое копьё, заряженное мощной молнией.</Miho_Ability_PredatoryGaze.description>
+
+  <Miho_Ability_Starfall.label>Веер Клинков</Miho_Ability_Starfall.label>
+  <Miho_Ability_Starfall.description>Формирует из близких механитов множество мономолекулярных лезвий и швыряет их вокруг себя.</Miho_Ability_Starfall.description>
+
+  <Miho_Ability_Love.label>Хвост Любви</Miho_Ability_Love.label>
+  <Miho_Ability_Love.description>Взмахни хвостом — и две пешки влюбятся.\n«Работает. Честно!»</Miho_Ability_Love.description>
+
+  <Miho_Ability_Serenity.label>Хвост Безмятежности</Miho_Ability_Serenity.label>
+  <Miho_Ability_Serenity.description>Успокаивает безумие! Лисы такое не выносят, ха‑ха.</Miho_Ability_Serenity.description>
+
+  <Miho_Ability_Inspiration.label>Хвост Счастья</Miho_Ability_Inspiration.label>
+  <Miho_Ability_Inspiration.description>Дарует счастье. Не спрашивай — как.</Miho_Ability_Inspiration.description>
+
+  <Miho_Ability_Defence.label>Белый Броневой Воин</Miho_Ability_Defence.label>
+  <Miho_Ability_Defence.description>Наполняет тело заклинателя духом воина в белой броне, принимающего удары на себя.</Miho_Ability_Defence.description>
+
+  <Miho_Ability_Powerstrike.label>Единый Удар</Miho_Ability_Powerstrike.label>
+  <Miho_Ability_Powerstrike.description>Истинному воину нужны воля и терпение. Разруби надвое!</Miho_Ability_Powerstrike.description>
+
+  <Miho_Ability_Shield.label>Лисий Щит</Miho_Ability_Shield.label>
+  <Miho_Ability_Shield.description>Перехватывает снаряды низкой энергии, выпуская механитов‑перехватчиков.</Miho_Ability_Shield.description>
+
+  <Miho_Ability_BerserkPulse.label>Рык Льва</Miho_Ability_BerserkPulse.label>
+  <Miho_Ability_BerserkPulse.description>Повергает страхом всё вокруг.</Miho_Ability_BerserkPulse.description>
+
+  <Miho_Ability_Heal.label>Исцеляющее Прикосновение</Miho_Ability_Heal.label>
+  <Miho_Ability_Heal.description>Излучает целительную энергию, лечащую болезни и раны.</Miho_Ability_Heal.description>
+
+  <Miho_Ability_Spiritualize.label>Спиритуализация</Miho_Ability_Spiritualize.label>
+  <Miho_Ability_Spiritualize.description>Кастер становится механито‑псионическим каналом, снимая нервный перегрев у союзных психиков.</Miho_Ability_Spiritualize.description>
+
+  <Miho_Ability_Spawn_Fox.label>Призыв Лис‑Носильщиков</Miho_Ability_Spawn_Fox.label>
+  <Miho_Ability_Spawn_Fox.description>Призывает маленьких помощников‑лис для переноски груза колонии.</Miho_Ability_Spawn_Fox.description>
+
+  <Miho_Ability_Spawn_Butterfly.label>Призыв Режущих Бабочек</Miho_Ability_Spawn_Butterfly.label>
+  <Miho_Ability_Spawn_Butterfly.description>Призывает рой бабочек с лезвийными крыльями.</Miho_Ability_Spawn_Butterfly.description>
+
+  <Miho_Ability_Spawn_Turret.label>Призыв Жаровни Лисьего Пламени</Miho_Ability_Spawn_Turret.label>
+  <Miho_Ability_Spawn_Turret.description>Создаёт жаровню, стреляющую лисьим пламенем.</Miho_Ability_Spawn_Turret.description>
+
+  <Miho_Ability_Skip.label>Пересборочный Скачок</Miho_Ability_Skip.label>
+  <Miho_Ability_Skip.description>Телепортирует к выбранной точке.</Miho_Ability_Skip.description>
+
+  <Miho_Ability_Spawn_Abomi.label>Призыв Механитовой Абоминации</Miho_Ability_Spawn_Abomi.label>
+  <Miho_Ability_Spawn_Abomi.description>Призывает устрашающую боевую машину.</Miho_Ability_Spawn_Abomi.description>
+
+  <Miho_Ability_Sandevistan.label>Пулевое Время</Miho_Ability_Sandevistan.label>
+  <Miho_Ability_Sandevistan.description>Киберпанковский ускоритель восприятия. Выглядит весьма продвинуто.</Miho_Ability_Sandevistan.description>
+
+  <Miho_Ability_Repair.label>Полевой Ремонт</Miho_Ability_Repair.label>
+  <Miho_Ability_Repair.description>Моментально ремонтирует механитов без штрафов.</Miho_Ability_Repair.description>
+
+  <Miho_Ability_Armor.label>Механитовый Панцирь</Miho_Ability_Armor.label>
+  <Miho_Ability_Armor.description>Уплотняет механитов внутри дрона, улучшая его броню.</Miho_Ability_Armor.description>
+
+  <Miho_Ability_Accuracy.label>Голографическая Артиллерия</Miho_Ability_Accuracy.label>
+  <Miho_Ability_Accuracy.description>Вводит трёхмерную систему прицеливания для более точных выстрелов.</Miho_Ability_Accuracy.description>
+
+  <Miho_Ability_Overclock.label>Разгон</Miho_Ability_Overclock.label>
+  <Miho_Ability_Overclock.description>«Сила непреодолима!» — усиливает сознание механита.</Miho_Ability_Overclock.description>
+
+  <Miho_Ability_BulletHell.label>Пулявой Ад</Miho_Ability_BulletHell.label>
+  <Miho_Ability_BulletHell.description>Резко ускоряет перезарядку, создавая непрекращающуюся очередь.</Miho_Ability_BulletHell.description>
+
+  <Miho_Ability_HackingSlow.label>Нейрохак: Пожирание Сознания</Miho_Ability_HackingSlow.label>
+  <Miho_Ability_HackingSlow.description>Поглощает сознание ИИ, снижая его внимательность.</Miho_Ability_HackingSlow.description>
+
+  <Miho_Ability_HackingKill.label>Нейрохак: Тепловой Взрыв</Miho_Ability_HackingKill.label>
+  <Miho_Ability_HackingKill.description>Черпает колоссальную энергию из неизвестного источника, вызывая взрыв.</Miho_Ability_HackingKill.description>
+
+  <Miho_Ability_SpawnGenerator.label>Заимствование Энергии</Miho_Ability_SpawnGenerator.label>
+  <Miho_Ability_SpawnGenerator.description>Занимает огромное количество энергии у неизвестного донора.</Miho_Ability_SpawnGenerator.description>
+
+  <Miho_Ability_HealMedic.label>Исцеляющее Прикосновение (Мед‑Броня)</Miho_Ability_HealMedic.label>
+  <Miho_Ability_HealMedic.description>Излучает целительную энергию, лечащую болезни и раны.</Miho_Ability_HealMedic.description>
+
+  <Miho_MechAbility_High_Jump.label>Скоростной Полёт</Miho_MechAbility_High_Jump.label>
+  <Miho_MechAbility_High_Jump.description>Использует внутреннее тепло для выброса пара и быстрого полёта.</Miho_MechAbility_High_Jump.description>
+
+  <Miho_MechSmoke.label>Пуск Дыма</Miho_MechSmoke.label>
+  <Miho_MechSmoke.description>Выпускает дымовую завесу.</Miho_MechSmoke.description>
+
+  <Miho_MechSmokeGrenade.label>Пуск Дымовой Гранаты</Miho_MechSmokeGrenade.label>
+  <Miho_MechSmokeGrenade.description>Бросает дымовую гранату.</Miho_MechSmokeGrenade.description>
+
+  <Miho_MechThermobaricGrenade.label>Термобарический Заряд</Miho_MechThermobaricGrenade.label>
+  <Miho_MechThermobaricGrenade.description>Запускает термобарическую бомбу против крупных сооружений.</Miho_MechThermobaricGrenade.description>
+
+  <Miho_MechPlasmaSpray.label>Плазменный Распылитель</Miho_MechPlasmaSpray.label>
+  <Miho_MechPlasmaSpray.description>Извергает раскалённую плазму на ближней дистанции.</Miho_MechPlasmaSpray.description>
+
+  <Miho_MechATMissile.label>Антимеховый Плазменный Снаряд</Miho_MechATMissile.label>
+  <Miho_MechATMissile.description>Выпускает плазменную ракету по механоиду.</Miho_MechATMissile.description>
+
+  <Miho_Ability_Dump.label>Отвод Нейрожара</Miho_Ability_Dump.label>
+  <Miho_Ability_Dump.description>Передаёт нейрожар в кибербак для охлаждения.</Miho_Ability_Dump.description>
+
+  <Miho_Ability_MechHeal.label>Прикосновение Исцеления</Miho_Ability_MechHeal.label>
+  <Miho_Ability_MechHeal.description>Излучает целительную энергию, лечащую болезни и раны.</Miho_Ability_MechHeal.description>
+
+  <Miho_MechSatchel.label>Заряд Подрывника</Miho_MechSatchel.label>
+  <Miho_MechSatchel.description>Устанавливает заряд для разрушения сооружений.</Miho_MechSatchel.description>
+
+  <Miho_MechFlame.label>Огненная Бомба</Miho_MechFlame.label>
+  <Miho_MechFlame.description>Разбрасывает огненный заряд.</Miho_MechFlame.description>
+
+  <Miho_Ability_HighmateSeduce.label>Соблазн</Miho_Ability_HighmateSeduce.label>
+  <Miho_Ability_HighmateSeduce.description>Повышает продуктивность и настроение пешки на четверть дня. Воображай сам, что там происходит…</Miho_Ability_HighmateSeduce.description>
+
+  <Miho_Ability_Sunlamp.label>Фонаръ‑Лис</Miho_Ability_Sunlamp.label>
+  <Miho_Ability_Sunlamp.description>Призывает волшебный фонарь, дарующий тепло и свет, достаточный для роста культур.</Miho_Ability_Sunlamp.description>
+  <Miho_Ability_Sunlamp.verbProperties.label>фонарь‑лис</Miho_Ability_Sunlamp.verbProperties.label>
+
+  <Miho_Ability_HotFireball.label>Жаркое Лисье Пламя</Miho_Ability_HotFireball.label>
+  <Miho_Ability_HotFireball.description>Призывает плазменное лисье пламя разрушительной силы. Осторожно, обжигает!</Miho_Ability_HotFireball.description>
+  <Miho_Ability_HotFireball.verbProperties.label>жаркое пламя</Miho_Ability_HotFireball.verbProperties.label>
+
+  <Miho_Ability_Polaris.label>Жаркое Пламенное Дыхание</Miho_Ability_Polaris.label>
+  <Miho_Ability_Polaris.description>Извергает веер плазменного лисьего пламени. Пахнет вкусно.</Miho_Ability_Polaris.description>
+  <Miho_Ability_Polaris.verbProperties.label>жаркое дыхание</Miho_Ability_Polaris.verbProperties.label>
+
+  <Miho_Ability_HeatArmor.label>Тепловой Барьер</Miho_Ability_HeatArmor.label>
+  <Miho_Ability_HeatArmor.description>Окутывает цель жарким барьером, защищая и усиливая её рукопашную атаку.</Miho_Ability_HeatArmor.description>
+  <Miho_Ability_HeatArmor.verbProperties.label>теплобарьер</Miho_Ability_HeatArmor.verbProperties.label>
+
+  <Miho_Ability_MakeSteel.label>Метаткач (Сталь)</Miho_Ability_MakeSteel.label>
+  <Miho_Ability_MakeSteel.description>Ткёт металл: 225 единиц стали. Сначала это раскалённый ком, после остывания — прочная сталь.</Miho_Ability_MakeSteel.description>
+  <Miho_Ability_MakeSteel.verbProperties.label>метаткач</Miho_Ability_MakeSteel.verbProperties.label>
+
+  <Miho_Ability_MakePlasteel.label>Метаткач (Пласталь)</Miho_Ability_MakePlasteel.label>
+  <Miho_Ability_MakePlasteel.description>Ткёт 75 пластали. Начинается с раскалённого куска, заканчивается сверхпрочным сплавом.</Miho_Ability_MakePlasteel.description>
+  <Miho_Ability_MakePlasteel.verbProperties.label>метаткач</Miho_Ability_MakePlasteel.verbProperties.label>
+
+  <Miho_Ability_MakeGold.label>Метаткач (Золото)</Miho_Ability_MakeGold.label>
+  <Miho_Ability_MakeGold.description>Ткёт 75 единиц золота. Раскаляется, затем остывает и превращается в чистый металл.</Miho_Ability_MakeGold.description>
+  <Miho_Ability_MakeGold.verbProperties.label>метаткач</Miho_Ability_MakeGold.verbProperties.label>
+
+</LanguageData>

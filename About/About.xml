@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Miho, the celestial fox RU</name>
+  <author>Mio</author>
+  <packageId>Mio.Miho.CelestialFox.RU</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>miho.fortifiedoutremer</li>
+  </modDependencies>
+  <description>
+    Русификатор для «Miho, the celestial fox». Содержит только перевод.
+  </description>
+</ModMetaData>
