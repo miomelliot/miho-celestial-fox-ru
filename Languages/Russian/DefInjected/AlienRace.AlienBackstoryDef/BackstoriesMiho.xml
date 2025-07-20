@@ -1,125 +1,149 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Miho_Adult_LiaisonOfficer.title>Miho External Liaison Officer</Miho_Adult_LiaisonOfficer.title>
-	<Miho_Adult_LiaisonOfficer.titleShort>External Liaison</Miho_Adult_LiaisonOfficer.titleShort>
-	<Miho_Adult_LiaisonOfficer.baseDesc>[PAWN_nameDef] was an external contact. {PAWN_pronoun} supplied {PAWN_possessive} faction with various important supplies and information from outside.</Miho_Adult_LiaisonOfficer.baseDesc>
+  <!-- External Liaison -->
+  <Miho_Adult_LiaisonOfficer.title>офицер внешних связей Михо</Miho_Adult_LiaisonOfficer.title>
+  <Miho_Adult_LiaisonOfficer.titleShort>внешний связник</Miho_Adult_LiaisonOfficer.titleShort>
+  <Miho_Adult_LiaisonOfficer.baseDesc>[PAWN_nameDef] был(а) внешним контактом. {PAWN_pronoun} снабжал(а) свою фракцию ценными ресурсами и информацией извне.</Miho_Adult_LiaisonOfficer.baseDesc>
 
-	<Miho_Adult_PMCInfantry.title>Miho PMC soldier</Miho_Adult_PMCInfantry.title>
-	<Miho_Adult_PMCInfantry.titleShort>PMC soldier</Miho_Adult_PMCInfantry.titleShort>
-	<Miho_Adult_PMCInfantry.baseDesc>[PAWN_nameDef] was a minor in the Private Military Company. {PAWN_pronoun} was usually dispatched to carry out frontier missions.</Miho_Adult_PMCInfantry.baseDesc>
+  <!-- PMC infantry -->
+  <Miho_Adult_PMCInfantry.title>солдат ЧВК Михо</Miho_Adult_PMCInfantry.title>
+  <Miho_Adult_PMCInfantry.titleShort>солдат ЧВК</Miho_Adult_PMCInfantry.titleShort>
+  <Miho_Adult_PMCInfantry.baseDesc>[PAWN_nameDef] служил(а) рядовым в частной военной компании и обычно отправлялся(ась) на задания на фронтире.</Miho_Adult_PMCInfantry.baseDesc>
 
-	<Miho_Adult_PMCSapper.title>Miho PMC Engineer</Miho_Adult_PMCSapper.title>
-	<Miho_Adult_PMCSapper.titleShort>PMC Engineer</Miho_Adult_PMCSapper.titleShort>
-	<Miho_Adult_PMCSapper.baseDesc>[PAWN_nameDef] was an engineer in the Private Military Company. {PAWN_pronoun} was in charge of management and planting explosives with supernatural powers. That's dangerous.</Miho_Adult_PMCSapper.baseDesc>
+  <!-- PMC sapper -->
+  <Miho_Adult_PMCSapper.title>инженер ЧВК Михо</Miho_Adult_PMCSapper.title>
+  <Miho_Adult_PMCSapper.titleShort>инженер ЧВК</Miho_Adult_PMCSapper.titleShort>
+  <Miho_Adult_PMCSapper.baseDesc>[PAWN_nameDef] был(а) инженером‑подрывником ЧВК: отвечал(а) за установку взрывчатки с «магическим» эффектом. Опасная работа.</Miho_Adult_PMCSapper.baseDesc>
 
-	<Miho_Adult_PMCSharpshooter.title>Miho PMC special shooter</Miho_Adult_PMCSharpshooter.title>
-	<Miho_Adult_PMCSharpshooter.titleShort>PMC special shooter</Miho_Adult_PMCSharpshooter.titleShort>
-	<Miho_Adult_PMCSharpshooter.baseDesc>Maybe [PAWN_nameDef] just had a lot of luck or very good eyesight. {PAWN_pronoun} showed off {PAWN_possessive} skills in the sniper squad.</Miho_Adult_PMCSharpshooter.baseDesc>
+  <!-- PMC sharpshooter -->
+  <Miho_Adult_PMCSharpshooter.title>снайпер ЧВК Михо</Miho_Adult_PMCSharpshooter.title>
+  <Miho_Adult_PMCSharpshooter.titleShort>снайпер ЧВК</Miho_Adult_PMCSharpshooter.titleShort>
+  <Miho_Adult_PMCSharpshooter.baseDesc>То ли везение, то ли орлиное зрение — [PAWN_nameDef] блистал(а) в снайперском отряде.</Miho_Adult_PMCSharpshooter.baseDesc>
 
-	<Miho_Adult_HamburgerCook.title>Miho Hamburger Cook</Miho_Adult_HamburgerCook.title>
-	<Miho_Adult_HamburgerCook.titleShort>Hamburger Cook</Miho_Adult_HamburgerCook.titleShort>
-	<Miho_Adult_HamburgerCook.baseDesc>[PAWN_nameDef] was the hamburger cook until the delivery of human meat patties.</Miho_Adult_HamburgerCook.baseDesc>
+  <!-- Hamburger cook -->
+  <Miho_Adult_HamburgerCook.title>повар гамбургерной Михо</Miho_Adult_HamburgerCook.title>
+  <Miho_Adult_HamburgerCook.titleShort>повар гамбургеров</Miho_Adult_HamburgerCook.titleShort>
+  <Miho_Adult_HamburgerCook.baseDesc>[PAWN_nameDef] жарил(а) гамбургеры, пока не пришла партия котлет из человеческого мяса.</Miho_Adult_HamburgerCook.baseDesc>
 
-	<Miho_Adult_SushiCook.title>Miho Sushi Master</Miho_Adult_SushiCook.title>
-	<Miho_Adult_SushiCook.titleShort>Sushi Master</Miho_Adult_SushiCook.titleShort>
-	<Miho_Adult_SushiCook.baseDesc>[PAWN_nameDef] was a chef who used to make sushi at a conveyor belt sushi restaurant.
- {PAWN_possessive} teachers instructions was to touch the rice grains until {PAWN_pronoun} knew the number of grains {PAWN_possessive} was holding. While continuously preparing sushi, {PAWN_pronoun} reached the point where {PAWN_pronoun} could determine the weight of each piece of sushi with an error of no more than 0.1g. Celebrities from all around the world adored her sushi and people lined up every day to taste it. Then one day... A large-scale food poisoning incident occurred at the store where {PAWN_nameDef} was working. The store went bankrupt after being sued by a customer who fell ill due to food poisoning. [PAWN_nameDef] then wandered from place to place and eventually became involved in the frontier development project.</Miho_Adult_SushiCook.baseDesc>
+  <!-- Sushi master -->
+  <Miho_Adult_SushiCook.title>суши‑мастер Михо</Miho_Adult_SushiCook.title>
+  <Miho_Adult_SushiCook.titleShort>суши‑мастер</Miho_Adult_SushiCook.titleShort>
+  <Miho_Adult_SushiCook.baseDesc>[PAWN_nameDef] работал(а) шеф‑поваром в ресторане конвейерных суши. По наставлению учителей {PAWN_pronoun} перебирал(а) рис, пока не научил(а)сь на ощупь считать зёрна. Со временем {PAWN_pronoun} определял(а) вес каждого суши с точностью 0,1 г, и знаменитости выстраивались в очередь. Но вспышка массового отравления разорила заведение; [PAWN_nameDef] скитал(а)ся и в конце концов подался(ась) в освоение окраины.</Miho_Adult_SushiCook.baseDesc>
 
-	<Miho_Adult_VirtualIdol.title>Miho Virtual Idol</Miho_Adult_VirtualIdol.title>
-	<Miho_Adult_VirtualIdol.titleShort>Virtual Idol</Miho_Adult_VirtualIdol.titleShort>
-	<Miho_Adult_VirtualIdol.baseDesc>{PAWN_nameDef} was a virtual idol before arriving on the rimworld. {PAWN_nameDef} used a nerdy avatar with glasses but {PAWN_possessive} unique voice didn't suit the avatar. {PAWN_pronoun} was greatly loved by the public. The day before a game festival, {PAWN_nameDef} informed her fans that an NFT fan signing event would be held. On the day of the event {PAWN_nameDef} left the house in excitement but never returned. A fan who imagined {PAWN_possessive} usual avatar went mad when they saw {PAWN_possessive} real face. [PAWN_nameDef] was then abducted without knowing why and fell unconscious.</Miho_Adult_VirtualIdol.baseDesc>
+  <!-- Virtual idol -->
+  <Miho_Adult_VirtualIdol.title>виртуальная идол Михо</Miho_Adult_VirtualIdol.title>
+  <Miho_Adult_VirtualIdol.titleShort>виртуальная идол</Miho_Adult_VirtualIdol.titleShort>
+  <Miho_Adult_VirtualIdol.baseDesc>[PAWN_nameDef] был(а) виртуальной идолом до прибытия на риммир. Скромный очкастый аватар не совпадал с уникальным голосом, но публика обожала {PAWN_objective}. За день до фестиваля {PAWN_pronoun} анонсировал(а) NFT‑автограф‑сессию, вышел(а) из дома — и исчез(ла). Фанат, ожидавший привычный образ, сошёл с ума, увидев реальное лицо, и похитил [PAWN_nameDef].</Miho_Adult_VirtualIdol.baseDesc>
 
-	<Miho_Adult_LowAssassin.title>Miho Lower Class Assassin</Miho_Adult_LowAssassin.title>
-	<Miho_Adult_LowAssassin.titleShort>Lower Class Assassin</Miho_Adult_LowAssassin.titleShort>
-	<Miho_Adult_LowAssassin.baseDesc>[PAWN_nameDef]	was a low-class assassin who killed assassination targets by seducing them. {PAWN_pronoun} tried to execute an assassination on the rimworld using {PAWN_possessive} specialty, but the shuttle {PAWN_pronoun} was riding was hit by anti-aircraft fire and crashed. Thats how {PAWN_pronoun} ended up living on the rimworld.</Miho_Adult_LowAssassin.baseDesc>
+  <!-- Low‑class assassin -->
+  <Miho_Adult_LowAssassin.title>ассасин низшего ранга Михо</Miho_Adult_LowAssassin.title>
+  <Miho_Adult_LowAssassin.titleShort>ассасин</Miho_Adult_LowAssassin.titleShort>
+  <Miho_Adult_LowAssassin.baseDesc>[PAWN_nameDef] соблазнял(а) жертв, а затем убивал(а). Попытка повторить трюк на риммире провалилась: шаттл сбили, и {PAWN_pronoun} остался(ась) здесь.</Miho_Adult_LowAssassin.baseDesc>
 
-	<Miho_Adult_MilitaryCooker.title>Miho Military Cook</Miho_Adult_MilitaryCooker.title>
-	<Miho_Adult_MilitaryCooker.titleShort>Military Cook</Miho_Adult_MilitaryCooker.titleShort>
-	<Miho_Adult_MilitaryCooker.baseDesc>[PAWN_nameDef] was a cook that served unsavory  meals at the military base.</Miho_Adult_MilitaryCooker.baseDesc>
+  <!-- Military cook -->
+  <Miho_Adult_MilitaryCooker.title>армейский повар Михо</Miho_Adult_MilitaryCooker.title>
+  <Miho_Adult_MilitaryCooker.titleShort>армейский повар</Miho_Adult_MilitaryCooker.titleShort>
+  <Miho_Adult_MilitaryCooker.baseDesc>[PAWN_nameDef] кормил(а) солдат безвкусными пайками на базе.</Miho_Adult_MilitaryCooker.baseDesc>
 
-	<Miho_Adult_Surgeon.title>Miho Surgeon</Miho_Adult_Surgeon.title>
-	<Miho_Adult_Surgeon.titleShort>Surgeon</Miho_Adult_Surgeon.titleShort>
-	<Miho_Adult_Surgeon.baseDesc>[PAWN_nameDef] has caused too many medical accidents. {PAWN_pronoun} was kidnapped by the victims with a grudge and sent to the rimworld.</Miho_Adult_Surgeon.baseDesc>
+  <!-- Surgeon -->
+  <Miho_Adult_Surgeon.title>хирург Михо</Miho_Adult_Surgeon.title>
+  <Miho_Adult_Surgeon.titleShort>хирург</Miho_Adult_Surgeon.titleShort>
+  <Miho_Adult_Surgeon.baseDesc>[PAWN_nameDef] допустил(а) слишком много медошибок. Жертвы похитили {PAWN_objective} и сослали на риммир.</Miho_Adult_Surgeon.baseDesc>
 
-	<Miho_Adult_SurrogateSurgeon.title>Miho Acting Doctor</Miho_Adult_SurrogateSurgeon.title>
-	<Miho_Adult_SurrogateSurgeon.titleShort>Acting Doctor</Miho_Adult_SurrogateSurgeon.titleShort>
-	<Miho_Adult_SurrogateSurgeon.baseDesc>{PAWN_nameDef} was just a salesperson, but after a surgery as surrogate surgeon {PAWN_pronoun} realized what {PAWN_possessive} true calling is. After that {PAWN_pronoun} performed 1382 surgeries so far.</Miho_Adult_SurrogateSurgeon.baseDesc>
+  <!-- Surrogate surgeon -->
+  <Miho_Adult_SurrogateSurgeon.title>самоучка‑хирург Михо</Miho_Adult_SurrogateSurgeon.title>
+  <Miho_Adult_SurrogateSurgeon.titleShort>самоучка‑хирург</Miho_Adult_SurrogateSurgeon.titleShort>
+  <Miho_Adult_SurrogateSurgeon.baseDesc>[PAWN_nameDef] был(а) обычным продавцом, но, подменив хирурга, нашёл(ла) своё призвание. С тех пор {PAWN_pronoun} провёл(а) 1 382 операции.</Miho_Adult_SurrogateSurgeon.baseDesc>
 
-	<Miho_Adult_Nurse.title>Miho Nurse</Miho_Adult_Nurse.title>
-	<Miho_Adult_Nurse.titleShort>Nurse</Miho_Adult_Nurse.titleShort>
-	<Miho_Adult_Nurse.baseDesc>[PAWN_nameDef] is a nurse. Thanks to the unique professional culture of nurses, she learned how to walk a tightrope well.</Miho_Adult_Nurse.baseDesc>
+  <!-- Nurse -->
+  <Miho_Adult_Nurse.title>медсестра Михо</Miho_Adult_Nurse.title>
+  <Miho_Adult_Nurse.titleShort>медсестра</Miho_Adult_Nurse.titleShort>
+  <Miho_Adult_Nurse.baseDesc>[PAWN_nameDef] — медсестра. Благодаря специфике профессии {PAWN_pronoun} отлично ходит по тонкому льду.</Miho_Adult_Nurse.baseDesc>
 
-	<Miho_Adult_Massager.title>Miho Masseuse</Miho_Adult_Massager.title>
-	<Miho_Adult_Massager.titleShort>Masseuse</Miho_Adult_Massager.titleShort>
-	<Miho_Adult_Massager.baseDesc>"It's no naughty massage at all! Just go down one floor to find the naughty ones!"</Miho_Adult_Massager.baseDesc>
+  <!-- Masseuse -->
+  <Miho_Adult_Massager.title>массажист Михо</Miho_Adult_Massager.title>
+  <Miho_Adult_Massager.titleShort>массажист</Miho_Adult_Massager.titleShort>
+  <Miho_Adult_Massager.baseDesc>«Это вовсе не эро‑массаж! За таким — этажом ниже!»</Miho_Adult_Massager.baseDesc>
 
-	<Miho_Adult_SpecialMassager.title>"Special" Masseuse</Miho_Adult_SpecialMassager.title>
-	<Miho_Adult_SpecialMassager.titleShort>Masseuse</Miho_Adult_SpecialMassager.titleShort>
-	<Miho_Adult_SpecialMassager.baseDesc>[PAWN_nameDef] was a worker at an illegal massage business. It was a massage salon but in reality it was no different from a brothel. One day whe {PAWN_pronoun} was caressing {PAWN_possessive} customer's whole body, drunk with cash stuck in {PAWN_possessive} underwear, the police raided the business. [PAWN_nameDef] calmly escaped from the scene through a hidden exit. While leaving {PAWN_pronoun} put on the customers baggy pants but didn't notice the bag of white powder sticking out of it's pockets. [PAWN_nameDef] unknowingly stole it and thought {PAWN_pronoun} was going home safely. But later {PAWN_pronoun} was arrested after a drug-sniffing dog, which had been following the police, picked up the scent of the drugs. That's how [PAWN_nameDef] was arrested and blamed for the entire drug smuggling business {PAWN_pronoun} was never a part of.</Miho_Adult_SpecialMassager.baseDesc>
+  <!-- “Special” masseuse -->
+  <Miho_Adult_SpecialMassager.title>«особый» массажист</Miho_Adult_SpecialMassager.title>
+  <Miho_Adult_SpecialMassager.titleShort>массажист</Miho_Adult_SpecialMassager.titleShort>
+  <Miho_Adult_SpecialMassager.baseDesc>[PAWN_nameDef] работал(а) в подпольном «массажном» салоне‑борделе. Во время полицейского рейда {PAWN_pronoun} сбежал(а) через тайный ход, нацепив чужие мешковатые штаны с пакетом порошка в кармане. Служебная собака взяла след — {PAWN_pronoun} обвинили в контрабанде, к которой {PAWN_pronoun} не имел(а) отношения.</Miho_Adult_SpecialMassager.baseDesc>
 
-	<Miho_Adult_Academician.title>Miho University Student</Miho_Adult_Academician.title>
-	<Miho_Adult_Academician.titleShort>University Student</Miho_Adult_Academician.titleShort>
-	<Miho_Adult_Academician.baseDesc>[PAWN_nameDef] has devoted decades of {PAWN_possessive} life to the study of mankind in order to obtain {PAWN_possessive} degree.</Miho_Adult_Academician.baseDesc>
+  <!-- Academician -->
+  <Miho_Adult_Academician.title>студент университета Михо</Miho_Adult_Academician.title>
+  <Miho_Adult_Academician.titleShort>студент</Miho_Adult_Academician.titleShort>
+  <Miho_Adult_Academician.baseDesc>[PAWN_nameDef] десятилетиями изучал(а) человечество ради заветной степени.</Miho_Adult_Academician.baseDesc>
 
-	<Miho_Adult_Forge.title>Miho Furnace Formulator</Miho_Adult_Forge.title>
-	<Miho_Adult_Forge.titleShort>Blast Furnace Formulator</Miho_Adult_Forge.titleShort>
-	<Miho_Adult_Forge.baseDesc>[PAWN_nameDef] was the manager responsible for the furnace's formulation. {PAWN_pronoun} is now unemployed because {PAWN_possessive} blast furnace exploded after {PAWN_pronoun} watered {PAWN_possessive} compound for money.</Miho_Adult_Forge.baseDesc>
+  <!-- Blast‑furnace formulator -->
+  <Miho_Adult_Forge.title>технолог домны Михо</Miho_Adult_Forge.title>
+  <Miho_Adult_Forge.titleShort>технолог домны</Miho_Adult_Forge.titleShort>
+  <Miho_Adult_Forge.baseDesc>[PAWN_nameDef] отвечал(а) за состав шихты. Сейчас безработный(ая): домна взорвалась, когда {PAWN_pronoun} полил(а) смесь водой ради экономии.</Miho_Adult_Forge.baseDesc>
 
-	<Miho_Adult_Gunsmith.title>Miho Gunsmith</Miho_Adult_Gunsmith.title>
-	<Miho_Adult_Gunsmith.titleShort>Gunsmith</Miho_Adult_Gunsmith.titleShort>
-	<Miho_Adult_Gunsmith.baseDesc>[PAWN_nameDef] was a gun fanatic. {PAWN_pronoun} opened a gun shop but realized that 95 percent of {PAWN_possessive} customers were just boring hobby shooters. After that {PAWN_pronoun} headed to the rimworld where true gun fanatics live.</Miho_Adult_Gunsmith.baseDesc>
+  <!-- Gunsmith -->
+  <Miho_Adult_Gunsmith.title>оружейник Михо</Miho_Adult_Gunsmith.title>
+  <Miho_Adult_Gunsmith.titleShort>оружейник</Miho_Adult_Gunsmith.titleShort>
+  <Miho_Adult_Gunsmith.baseDesc>[PAWN_nameDef] фанат(ка) оружия. Открыв магазин, {PAWN_pronoun} понял(а), что 95 % клиентов — скучные стрелки по мишеням, и уехал(а) на риммир — к настоящим фанатикам.</Miho_Adult_Gunsmith.baseDesc>
 
-	<Miho_Adult_Calligrapher.title>Miho Calligrapher</Miho_Adult_Calligrapher.title>
-	<Miho_Adult_Calligrapher.titleShort>Calligrapher</Miho_Adult_Calligrapher.titleShort>
-	<Miho_Adult_Calligrapher.baseDesc>[PAWN_nameDef] is a calligrapher. So {PAWN_pronoun} had to come to the rimworld!</Miho_Adult_Calligrapher.baseDesc>
+  <!-- Calligrapher -->
+  <Miho_Adult_Calligrapher.title>каллиграф Михо</Miho_Adult_Calligrapher.title>
+  <Miho_Adult_Calligrapher.titleShort>каллиграф</Miho_Adult_Calligrapher.titleShort>
+  <Miho_Adult_Calligrapher.baseDesc>[PAWN_nameDef] — каллиграф, а значит, конечно же, должен(а) был(а) приехать на риммир!</Miho_Adult_Calligrapher.baseDesc>
 
-	<Miho_Adult_Miner.title>Miho Mining Manager</Miho_Adult_Miner.title>
-	<Miho_Adult_Miner.titleShort>Mining Manager</Miho_Adult_Miner.titleShort>
-	<Miho_Adult_Miner.baseDesc>[PAWN_nameDef] loves to dig, so {PAWN_pronoun} became a mining manager. No, really. She also enjoys hanging out with the workers.</Miho_Adult_Miner.baseDesc>
+  <!-- Mining manager -->
+  <Miho_Adult_Miner.title>горный управляющий Михо</Miho_Adult_Miner.title>
+  <Miho_Adult_Miner.titleShort>управляющий шахты</Miho_Adult_Miner.titleShort>
+  <Miho_Adult_Miner.baseDesc>[PAWN_nameDef] обожает копать, поэтому стал(а) начальником рудника — и, честно, любит зависать с рабочими.</Miho_Adult_Miner.baseDesc>
 
-	<Miho_Adult_Plantation.title>Miho Florist</Miho_Adult_Plantation.title>
-	<Miho_Adult_Plantation.titleShort>Florist</Miho_Adult_Plantation.titleShort>
-	<Miho_Adult_Plantation.baseDesc>[PAWN_nameDef] grew and sold flowers, but was exiled to the rimworld due to the rebellion of flowers with self-awareness.</Miho_Adult_Plantation.baseDesc>
+  <!-- Florist -->
+  <Miho_Adult_Plantation.title>флорист Михо</Miho_Adult_Plantation.title>
+  <Miho_Adult_Plantation.titleShort>флорист</Miho_Adult_Plantation.titleShort>
+  <Miho_Adult_Plantation.baseDesc>[PAWN_nameDef] выращивал(а) цветы, пока они не восстали против садовника. За бунт разумных бутонов {PAWN_pronoun} сослали на риммир.</Miho_Adult_Plantation.baseDesc>
 
-	<Miho_Adult_Privateer.title>Miho Privateer</Miho_Adult_Privateer.title>
-	<Miho_Adult_Privateer.titleShort>Privateer</Miho_Adult_Privateer.titleShort>
-	<Miho_Adult_Privateer.baseDesc>[PAWN_nameDef] was a member of a jolly pirate crew primarily engaged for human trafficking. Not very pleasant.</Miho_Adult_Privateer.baseDesc>
+  <!-- Privateer -->
+  <Miho_Adult_Privateer.title>капер Михо</Miho_Adult_Privateer.title>
+  <Miho_Adult_Privateer.titleShort>капер</Miho_Adult_Privateer.titleShort>
+  <Miho_Adult_Privateer.baseDesc>[PAWN_nameDef] служил(а) в весёлой пиратской команде, в основном торговавшей людьми. Ничего приятного.</Miho_Adult_Privateer.baseDesc>
 
-	<Miho_Adult_BrutalPsyker.title>Miho Killer Psyker</Miho_Adult_BrutalPsyker.title>
-	<Miho_Adult_BrutalPsyker.titleShort>Killer Psyker</Miho_Adult_BrutalPsyker.titleShort>
-	<Miho_Adult_BrutalPsyker.baseDesc>[PAWN_nameDef] was a famous magic-killer and worshipped as a god by the tribesmen. But {PAWN_pronoun} came here to hide from a famous bounty hunter.</Miho_Adult_BrutalPsyker.baseDesc>
+  <!-- Killer psyker -->
+  <Miho_Adult_BrutalPsyker.title>пси‑убийца Михо</Miho_Adult_BrutalPsyker.title>
+  <Miho_Adult_BrutalPsyker.titleShort>пси‑убийца</Miho_Adult_BrutalPsyker.titleShort>
+  <Miho_Adult_BrutalPsyker.baseDesc>[PAWN_nameDef] был(а) знаменитым маг‑киллером, племена почитали {PAWN_objective} как божество. Теперь {PAWN_pronoun} прячется здесь от охотника за головами.</Miho_Adult_BrutalPsyker.baseDesc>
 
-	<Miho_Adult_Battlemage.title>Miho Battle Mage</Miho_Adult_Battlemage.title>
-	<Miho_Adult_Battlemage.titleShort>Battle Mage</Miho_Adult_Battlemage.titleShort>
-	<Miho_Adult_Battlemage.baseDesc>[PAWN_nameDef] is a specially trained battle mage. Because {PAWN_pronoun} was raised as living tactical weapons, {PAWN_pronoun} has low social skills.</Miho_Adult_Battlemage.baseDesc>
+  <!-- Battle mage -->
+  <Miho_Adult_Battlemage.title>боевой маг Михо</Miho_Adult_Battlemage.title>
+  <Miho_Adult_Battlemage.titleShort>боевой маг</Miho_Adult_Battlemage.titleShort>
+  <Miho_Adult_Battlemage.baseDesc>[PAWN_nameDef] — специально обученный боевой маг. Вырос(ла) как живое тактическое оружие, поэтому социальные навыки оставляют желать лучшего.</Miho_Adult_Battlemage.baseDesc>
 
-	<Miho_Adult_Engi.title>Miho Engineer</Miho_Adult_Engi.title>
-	<Miho_Adult_Engi.titleShort>Engineer</Miho_Adult_Engi.titleShort>
-	<Miho_Adult_Engi.baseDesc>[PAWN_nameDef] likes machines. As much as {PAWN_pronoun} loves machines, they do lack aesthetic.</Miho_Adult_Engi.baseDesc>
+  <!-- Engineer -->
+  <Miho_Adult_Engi.title>инженер Михо</Miho_Adult_Engi.title>
+  <Miho_Adult_Engi.titleShort>инженер</Miho_Adult_Engi.titleShort>
+  <Miho_Adult_Engi.baseDesc>[PAWN_nameDef] обожает машины — настолько, что про эстетику не думает.</Miho_Adult_Engi.baseDesc>
 
-	<Miho_Adult_EngiTwo.title>Miho Machine Lover</Miho_Adult_EngiTwo.title>
-	<Miho_Adult_EngiTwo.titleShort>Machine Lover</Miho_Adult_EngiTwo.titleShort>
-	<Miho_Adult_EngiTwo.baseDesc>[PAWN_nameDef] loves machines. {PAWN_pronoun} was even married to one before.</Miho_Adult_EngiTwo.baseDesc>
+  <!-- Machine lover -->
+  <Miho_Adult_EngiTwo.title>любитель машин Михо</Miho_Adult_EngiTwo.title>
+  <Miho_Adult_EngiTwo.titleShort>любитель машин</Miho_Adult_EngiTwo.titleShort>
+  <Miho_Adult_EngiTwo.baseDesc>[PAWN_nameDef] любит машины настолько, что раньше даже был(а) женат(а) на одной.</Miho_Adult_EngiTwo.baseDesc>
 
-	<Miho_Adult_Ronin.title>Miho Ronin</Miho_Adult_Ronin.title>
-	<Miho_Adult_Ronin.titleShort>Ronin</Miho_Adult_Ronin.titleShort>
-	<Miho_Adult_Ronin.baseDesc>[PAWN_nameDef] is a famous warrior. Maybe it's to maintain {PAWN_possessive} image or {PAWN_pronoun} is simply not good at speaking but {PAWN_pronoun} doesn't talk much.</Miho_Adult_Ronin.baseDesc>
+  <!-- Ronin -->
+  <Miho_Adult_Ronin.title>ронин Михо</Miho_Adult_Ronin.title>
+  <Miho_Adult_Ronin.titleShort>ронин</Miho_Adult_Ronin.titleShort>
+  <Miho_Adult_Ronin.baseDesc>[PAWN_nameDef] — знаменитый воин. То ли для поддержания образа, то ли по натуре, {PAWN_pronoun} говорит мало.</Miho_Adult_Ronin.baseDesc>
 
-	<Miho_Adult_Cute.title>Miho Pet Fox</Miho_Adult_Cute.title>
-	<Miho_Adult_Cute.titleShort>Pet Fox</Miho_Adult_Cute.titleShort>
-	<Miho_Adult_Cute.baseDesc>[PAWN_nameDef] is a poor fox who was sold to a dirty otaku. {PAWN_pronoun} had to cook, clean, offer {PAWN_possessive}... well... Anyway, {PAWN_pronoun} got tired of this life and fled far away.</Miho_Adult_Cute.baseDesc>
+  <!-- Pet fox -->
+  <Miho_Adult_Cute.title>ручной лис Михо</Miho_Adult_Cute.title>
+  <Miho_Adult_Cute.titleShort>ручной лис</Miho_Adult_Cute.titleShort>
+  <Miho_Adult_Cute.baseDesc>[PAWN_nameDef] — несчастный лис, проданный грязному отаку. Приходилось готовить, убирать и «угождать». Надоело — {PAWN_pronoun} сбежал(а).</Miho_Adult_Cute.baseDesc>
 
-	<Miho_Adult_Waifu.title>Miho Yamato Nadeshiko</Miho_Adult_Waifu.title>
-	<Miho_Adult_Waifu.titleShort>Yamato Nadeshiko</Miho_Adult_Waifu.titleShort>
-	<Miho_Adult_Waifu.baseDesc>"I want to be hugged by Maman, the cute fox." - Deos Epilope V (Starlord of the A-62 system heading to the North Star)</Miho_Adult_Waifu.baseDesc>
+  <!-- Yamato nadeshiko -->
+  <Miho_Adult_Waifu.title>ямато‑надэсико Михо</Miho_Adult_Waifu.title>
+  <Miho_Adult_Waifu.titleShort>надэсико</Miho_Adult_Waifu.titleShort>
+  <Miho_Adult_Waifu.baseDesc>«Хочу, чтобы меня обняла Маман, милая лиса». — Деос Эпилоп V, старлорд системы A‑62.</Miho_Adult_Waifu.baseDesc>
 
-	<Miho_Unique_Shoot.title>Stupid Miho</Miho_Unique_Shoot.title>
-	<Miho_Unique_Shoot.titleShort>Stupid Miho</Miho_Unique_Shoot.titleShort>
-	<Miho_Unique_Shoot.baseDesc>[PAWN_nameDef] is a bit silly.</Miho_Unique_Shoot.baseDesc>
+  <!-- Stupid Miho -->
+  <Miho_Unique_Shoot.title>глупышка Михо</Miho_Unique_Shoot.title>
+  <Miho_Unique_Shoot.titleShort>глупышка</Miho_Unique_Shoot.titleShort>
+  <Miho_Unique_Shoot.baseDesc>[PAWN_nameDef] слегка недалёк(а).</Miho_Unique_Shoot.baseDesc>
 
 </LanguageData>
-
-
-
-

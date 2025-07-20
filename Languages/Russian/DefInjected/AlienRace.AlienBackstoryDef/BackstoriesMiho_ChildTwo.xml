@@ -1,32 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Miho_Child_FoxTwo.title>ordinary fox</Miho_Child_FoxTwo.title>
-	<Miho_Child_FoxTwo.titleShort>ordinary fox</Miho_Child_FoxTwo.titleShort>
-	<Miho_Child_FoxTwo.baseDesc>[PAWN_nameDef] was just a normal fox in the city of Miho. {PAWN_pronoun} attended a mediocre school and acquired mediocre knowledge.</Miho_Child_FoxTwo.baseDesc>
+  <!-- ordinary fox (Two) -->
+  <Miho_Child_FoxTwo.title>обычный лис</Miho_Child_FoxTwo.title>
+  <Miho_Child_FoxTwo.titleShort>обычный лис</Miho_Child_FoxTwo.titleShort>
+  <Miho_Child_FoxTwo.baseDesc>[PAWN_nameDef] был(а) обычным лисом в городе Михо. {PAWN_pronoun} ходил(а) в посредственную школу и получил(а) посредственные знания.</Miho_Child_FoxTwo.baseDesc>
 
-	<Miho_Child_RuralTwo.title>country fox</Miho_Child_RuralTwo.title>
-	<Miho_Child_RuralTwo.titleShort>country fox</Miho_Child_RuralTwo.titleShort>
-	<Miho_Child_RuralTwo.baseDesc>[PAWN_nameDef] was a fox living happy days in the countryside. {PAWN_pronoun} took care of animals, grew plants, walked in the forest and had happy days.</Miho_Child_RuralTwo.baseDesc>
+  <!-- country fox (Two) -->
+  <Miho_Child_RuralTwo.title>деревенский лис</Miho_Child_RuralTwo.title>
+  <Miho_Child_RuralTwo.titleShort>деревенский лис</Miho_Child_RuralTwo.titleShort>
+  <Miho_Child_RuralTwo.baseDesc>[PAWN_nameDef] был(а) лисом, счастливо жившим в сельской местности. {PAWN_pronoun} ухаживал(а) за животными, выращивал(а) растения, гулял(а) по лесу и наслаждал(а)ся жизнью.</Miho_Child_RuralTwo.baseDesc>
 
-	<Miho_Child_HuntFoxTwo.title>hunting fox</Miho_Child_HuntFoxTwo.title>
-	<Miho_Child_HuntFoxTwo.titleShort>hunting fox</Miho_Child_HuntFoxTwo.titleShort>
-	<Miho_Child_HuntFoxTwo.baseDesc>[PAWN_nameDef] was an amazing hunter. No one knows what is so amazing about {PAWN_objective}.</Miho_Child_HuntFoxTwo.baseDesc>
+  <!-- hunting fox (Two) -->
+  <Miho_Child_HuntFoxTwo.title>охотничий лис</Miho_Child_HuntFoxTwo.title>
+  <Miho_Child_HuntFoxTwo.titleShort>охотничий лис</Miho_Child_HuntFoxTwo.titleShort>
+  <Miho_Child_HuntFoxTwo.baseDesc>[PAWN_nameDef] был(а) выдающимся охотником. Никто не знает, что в {PAWN_objective} такого удивительного.</Miho_Child_HuntFoxTwo.baseDesc>
 
-	<Miho_Child_OrphanTwo.title>abandoned fox</Miho_Child_OrphanTwo.title>
-	<Miho_Child_OrphanTwo.titleShort>abandoned fox</Miho_Child_OrphanTwo.titleShort>
-	<Miho_Child_OrphanTwo.baseDesc>[PAWN_nameDef] has been abandoned by {PAWN_possessive} parents or lost them. Even though {PAWN_pronoun} went through a lot of hardships {PAWN_pronoun} is still alive and well.</Miho_Child_OrphanTwo.baseDesc>
+  <!-- abandoned fox (Two) -->
+  <Miho_Child_OrphanTwo.title>брошенный лис</Miho_Child_OrphanTwo.title>
+  <Miho_Child_OrphanTwo.titleShort>брошенный лис</Miho_Child_OrphanTwo.titleShort>
+  <Miho_Child_OrphanTwo.baseDesc>[PAWN_nameDef] был(а) брошен(а) родителями или потерял(а) их. Несмотря на все трудности, {PAWN_pronoun} всё ещё жив(а) и здоров(а).</Miho_Child_OrphanTwo.baseDesc>
 
-	<Miho_Child_GiftedTwo.title>genius</Miho_Child_GiftedTwo.title>
-	<Miho_Child_GiftedTwo.titleShort>genius</Miho_Child_GiftedTwo.titleShort>
-	<Miho_Child_GiftedTwo.baseDesc>[PAWN_nameDef] was a fox with high intellectual abilities. {PAWN_pronoun} often looked for adult company because {PAWN_pronoun} couldn't properly talk to her friends.</Miho_Child_GiftedTwo.baseDesc>
+  <!-- genius (Two) -->
+  <Miho_Child_GiftedTwo.title>вундеркинд</Miho_Child_GiftedTwo.title>
+  <Miho_Child_GiftedTwo.titleShort>вундеркинд</Miho_Child_GiftedTwo.titleShort>
+  <Miho_Child_GiftedTwo.baseDesc>[PAWN_nameDef] был(а) лисом с высокими интеллектуальными способностями. {PAWN_pronoun} часто искал(а) общество взрослых, потому что не мог(ла) нормально общаться со сверстниками.</Miho_Child_GiftedTwo.baseDesc>
 
-	<Miho_Child_DesertTwo.title>desert fox</Miho_Child_DesertTwo.title>
-	<Miho_Child_DesertTwo.titleShort>desert fox</Miho_Child_DesertTwo.titleShort>
-	<Miho_Child_DesertTwo.baseDesc>[PAWN_nameDef] was literally a desert fox. {PAWN_pronoun} can tolerate heat very well.</Miho_Child_DesertTwo.baseDesc>
+  <!-- desert fox (Two) -->
+  <Miho_Child_DesertTwo.title>пустынный лис</Miho_Child_DesertTwo.title>
+  <Miho_Child_DesertTwo.titleShort>пустынный лис</Miho_Child_DesertTwo.titleShort>
+  <Miho_Child_DesertTwo.baseDesc>[PAWN_nameDef] был(а) настоящим пустынным лисом. {PAWN_pronoun} отлично переносит жару.</Miho_Child_DesertTwo.baseDesc>
 
-	<Miho_Child_BraveTwo.title>brave fox</Miho_Child_BraveTwo.title>
-	<Miho_Child_BraveTwo.titleShort>brave fox</Miho_Child_BraveTwo.titleShort>
-	<Miho_Child_BraveTwo.baseDesc>[PAWN_nameDef] was a brave fox. {PAWN_pronoun} was so brave that {PAWN_pronoun} had no friends.</Miho_Child_BraveTwo.baseDesc>
+  <!-- brave fox (Two) -->
+  <Miho_Child_BraveTwo.title>смелый лис</Miho_Child_BraveTwo.title>
+  <Miho_Child_BraveTwo.titleShort>смелый лис</Miho_Child_BraveTwo.titleShort>
+  <Miho_Child_BraveTwo.baseDesc>[PAWN_nameDef] был(а) смелым лисом. {PAWN_pronoun} был(а) настолько смел(а), что у {PAWN_objective} не было друзей.</Miho_Child_BraveTwo.baseDesc>
 
 </LanguageData>
