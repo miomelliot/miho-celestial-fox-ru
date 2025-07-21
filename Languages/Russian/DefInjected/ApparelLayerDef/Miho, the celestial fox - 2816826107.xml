@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Miho_Special.label>Specialwear</Miho_Special.label>
-  <Miho_Under.label>Underwear</Miho_Under.label>
+
+  <Miho_Special.label>спецодежда</Miho_Special.label>
+  <Miho_Under.label>нижнее бельё</Miho_Under.label>
+
 </LanguageData>

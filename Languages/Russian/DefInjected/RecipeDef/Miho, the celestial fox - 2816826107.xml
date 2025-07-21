@@ -1,60 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Miho_CelestialScaleMake.label>Synthesis Celestial Scale</Miho_CelestialScaleMake.label>
-  <Miho_CelestialScaleMake.description>Synthesis Celestial Scale.</Miho_CelestialScaleMake.description>
-  <Miho_CelestialScaleMake.jobString>Synthesising Celestial Scale.</Miho_CelestialScaleMake.jobString>
-  <Miho_PastetoCeramicShaft.label>Making Miho Ceramic</Miho_PastetoCeramicShaft.label>
-  <Miho_PastetoCeramicShaft.description>Make Miho Ceramic.</Miho_PastetoCeramicShaft.description>
-  <Miho_PastetoCeramicShaft.jobString>Making Miho Ceramic.</Miho_PastetoCeramicShaft.jobString>
-  <Miho_PastetoMCeramicShaft.label>Making Miho Military Ballistic Ceramics</Miho_PastetoMCeramicShaft.label>
-  <Miho_PastetoMCeramicShaft.description>Make Military Ballistic Ceramics.</Miho_PastetoMCeramicShaft.description>
-  <Miho_PastetoMCeramicShaft.jobString>Making Military Ballistic Ceramics.</Miho_PastetoMCeramicShaft.jobString>
-  <Miho_MeattoDust.label>Filtering out the Mechanite crystals</Miho_MeattoDust.label>
-  <Miho_MeattoDust.description>Filter out the Mechanite crystals in flesh with high-tech equipment.</Miho_MeattoDust.description>
-  <Miho_MeattoDust.jobString>Filtering out the Mechanite crystals.</Miho_MeattoDust.jobString>
-  <Miho_PastetoCeramic.label>Making Miho Ceramic</Miho_PastetoCeramic.label>
-  <Miho_PastetoCeramic.description>Make Miho Ceramic.</Miho_PastetoCeramic.description>
-  <Miho_PastetoCeramic.jobString>Making Miho Ceramic.</Miho_PastetoCeramic.jobString>
-  <Miho_TeatoTea.label>Brewing Helianto Tea.</Miho_TeatoTea.label>
-  <Miho_TeatoTea.description>Brew tea.</Miho_TeatoTea.description>
-  <Miho_TeatoTea.jobString>Brewing tea.</Miho_TeatoTea.jobString>
-  <Miho_SmoketoSmoke.label>Making Cigarettes.</Miho_SmoketoSmoke.label>
-  <Miho_SmoketoSmoke.description>Make Cigarettes.</Miho_SmoketoSmoke.description>
-  <Miho_SmoketoSmoke.jobString>Making Cigarettes.</Miho_SmoketoSmoke.jobString>
-  <Miho_ComponentIndustrial.label>Techweaving</Miho_ComponentIndustrial.label>
-  <Miho_ComponentIndustrial.description>Making components by techweaving with Miho's psychic ability.</Miho_ComponentIndustrial.description>
-  <Miho_ComponentIndustrial.jobString>Techweaving.</Miho_ComponentIndustrial.jobString>
-  <Miho_ComponentSpacer.label>Advenced Techweaving</Miho_ComponentSpacer.label>
-  <Miho_ComponentSpacer.description>Making advenced components by techweaving with Miho's psychic ability.</Miho_ComponentSpacer.description>
-  <Miho_ComponentSpacer.jobString>Techweaving.</Miho_ComponentSpacer.jobString>
-  <Miho_CookInari.label>Making Inari Sushi</Miho_CookInari.label>
-  <Miho_CookInari.description>Make Inari Sushi.</Miho_CookInari.description>
-  <Miho_CookInari.jobString>Making Inari Sushi.</Miho_CookInari.jobString>
-  <Miho_CookInarimore.label>Making Inari Sushi x4</Miho_CookInarimore.label>
-  <Miho_CookInarimore.description>Make Inari Sushi.</Miho_CookInarimore.description>
-  <Miho_CookInarimore.jobString>Making Inari Sushi.</Miho_CookInarimore.jobString>
-  <Miho_Mech_HeavyMechCore.label>Making Large Mechanite Core</Miho_Mech_HeavyMechCore.label>
-  <Miho_Mech_HeavyMechCore.description>Make Large Mechanite Core.</Miho_Mech_HeavyMechCore.description>
-  <Miho_Mech_DesertSphex.label>Making Onisopter</Miho_Mech_DesertSphex.label>
-  <Miho_Mech_DesertSphex.description>Make Onisopter.</Miho_Mech_DesertSphex.description>
-  <!--
-  <Miho_Mech_Kampe.label>Making Recycling Bot</Miho_Mech_Kampe.label>
-  <Miho_Mech_Kampe.description>Make Recycling Bot.</Miho_Mech_Kampe.description>
-   -->
-  <Miho_Mech_Bulgasal.label>Making Multi Legged Heavy Tank (Anti-Tank)</Miho_Mech_Bulgasal.label>
-  <Miho_Mech_Bulgasal.description>Make Multi Legged Heavy Tank (Anti-Tank).</Miho_Mech_Bulgasal.description>
-  <Miho_Mech_BulgasalSiege.label>Making Multi Legged Heavy Tank (Siege)</Miho_Mech_BulgasalSiege.label>
-  <Miho_Mech_BulgasalSiege.description>Make Multi Legged Heavy Tank (Siege).</Miho_Mech_BulgasalSiege.description>
-  <Miho_Mech_BulgasalGrenade.label>Making Multi Legged Heavy Tank (Grenade)</Miho_Mech_BulgasalGrenade.label>
-  <Miho_Mech_BulgasalGrenade.description>Multi Legged Heavy Tank (Grenade).</Miho_Mech_BulgasalGrenade.description>
-  <Miho_Mech_Balbari.label>Making Infantry Support Multi Legged Heavy Tank</Miho_Mech_Balbari.label>
-  <Miho_Mech_Balbari.description>Make Infantry Support Multi Legged Heavy Tank.</Miho_Mech_Balbari.description>
-  <Miho_Mech_Sapsal.label>Making Multi Legged Light Tank (Recon)</Miho_Mech_Sapsal.label>
-  <Miho_Mech_Sapsal.description>Make Multi Legged Light Tank (Recon).</Miho_Mech_Sapsal.description>
-  <Miho_Mech_SapsalPsy.label>Making Multi Legged Light Tank (Psychic Support)</Miho_Mech_SapsalPsy.label>
-  <Miho_Mech_SapsalPsy.description>Make Multi Legged Light Tank (Psychic Support).</Miho_Mech_SapsalPsy.description>
-  <Miho_Mech_CataphractRocket.label>Making Multi Legged CEV (Multiple Rocket Launcher)</Miho_Mech_CataphractRocket.label>
-  <Miho_Mech_CataphractRocket.description>Make Multi Legged CEV (Multiple Rocket Launcher).</Miho_Mech_CataphractRocket.description>
-  <Miho_Mech_CataphractCluRocket.label>Making Multi Legged CEV (Cluster Rocket Launcher)</Miho_Mech_CataphractCluRocket.label>
-  <Miho_Mech_CataphractCluRocket.description>Make Multi Legged CEV (Cluster Rocket Launcher).</Miho_Mech_CataphractCluRocket.description>
+
+  <!-- Небесная чешуя -->
+  <Miho_CelestialScaleMake.label>синтез небесной чешуи</Miho_CelestialScaleMake.label>
+  <Miho_CelestialScaleMake.description>Синтезировать небесную чешую.</Miho_CelestialScaleMake.description>
+  <Miho_CelestialScaleMake.jobString>Синтезирует небесную чешую.</Miho_CelestialScaleMake.jobString>
+
+  <!-- Керамика -->
+  <Miho_PastetoCeramicShaft.label>керамика Михо (шахтная печь)</Miho_PastetoCeramicShaft.label>
+  <Miho_PastetoCeramicShaft.description>Произвести керамику Михо.</Miho_PastetoCeramicShaft.description>
+  <Miho_PastetoCeramicShaft.jobString>Изготавливает керамику Михо.</Miho_PastetoCeramicShaft.jobString>
+
+  <Miho_PastetoCeramic.label>керамика Михо</Miho_PastetoCeramic.label>
+  <Miho_PastetoCeramic.description>Произвести керамику Михо.</Miho_PastetoCeramic.description>
+  <Miho_PastetoCeramic.jobString>Изготавливает керамику Михо.</Miho_PastetoCeramic.jobString>
+
+  <Miho_PastetoMCeramicShaft.label>баллистическая керамика Михо</Miho_PastetoMCeramicShaft.label>
+  <Miho_PastetoMCeramicShaft.description>Произвести военную баллистическую керамику.</Miho_PastetoMCeramicShaft.description>
+  <Miho_PastetoMCeramicShaft.jobString>Изготавливает баллистическую керамику.</Miho_PastetoMCeramicShaft.jobString>
+
+  <!-- Фильтрация механитов -->
+  <Miho_MeattoDust.label>фильтрация механитовых кристаллов</Miho_MeattoDust.label>
+  <Miho_MeattoDust.description>Отфильтровать механитовые кристаллы из плоти высокотехнологичным оборудованием.</Miho_MeattoDust.description>
+  <Miho_MeattoDust.jobString>Фильтрует механитовые кристаллы.</Miho_MeattoDust.jobString>
+
+  <!-- Напитки и табак -->
+  <Miho_TeatoTea.label>заваривание чая Гелианто</Miho_TeatoTea.label>
+  <Miho_TeatoTea.description>Заварить чай.</Miho_TeatoTea.description>
+  <Miho_TeatoTea.jobString>Заваривает чай.</Miho_TeatoTea.jobString>
+
+  <Miho_SmoketoSmoke.label>скрутка сигарет</Miho_SmoketoSmoke.label>
+  <Miho_SmoketoSmoke.description>Изготовить сигареты.</Miho_SmoketoSmoke.description>
+  <Miho_SmoketoSmoke.jobString>Скручивает сигареты.</Miho_SmoketoSmoke.jobString>
+
+  <!-- Компоненты -->
+  <Miho_ComponentIndustrial.label>техно‑ткачество</Miho_ComponentIndustrial.label>
+  <Miho_ComponentIndustrial.description>Создание компонентов методом техно‑ткачества с помощью пси‑сил Михо.</Miho_ComponentIndustrial.description>
+  <Miho_ComponentIndustrial.jobString>Занимается техно‑ткачеством.</Miho_ComponentIndustrial.jobString>
+
+  <Miho_ComponentSpacer.label>продвинутое техно‑ткачество</Miho_ComponentSpacer.label>
+  <Miho_ComponentSpacer.description>Создание продвинутых компонентов техно‑ткачеством.</Miho_ComponentSpacer.description>
+  <Miho_ComponentSpacer.jobString>Занимается техно‑ткачеством.</Miho_ComponentSpacer.jobString>
+
+  <!-- Суши -->
+  <Miho_CookInari.label>приготовление инари‑суши</Miho_CookInari.label>
+  <Miho_CookInari.description>Приготовить инари‑суши.</Miho_CookInari.description>
+  <Miho_CookInari.jobString>Готовит инари‑суши.</Miho_CookInari.jobString>
+
+  <Miho_CookInarimore.label>приготовление инари‑суши ×4</Miho_CookInarimore.label>
+  <Miho_CookInarimore.description>Приготовить инари‑суши.</Miho_CookInarimore.description>
+  <Miho_CookInarimore.jobString>Готовит инари‑суши.</Miho_CookInarimore.jobString>
+
+  <!-- Крупное ядро -->
+  <Miho_Mech_HeavyMechCore.label>сборка крупного механитового ядра</Miho_Mech_HeavyMechCore.label>
+  <Miho_Mech_HeavyMechCore.description>Собрать крупное механитовое ядро.</Miho_Mech_HeavyMechCore.description>
+
+  <!-- Онито́птер -->
+  <Miho_Mech_DesertSphex.label>сборка ирнитоптера</Miho_Mech_DesertSphex.label>
+  <Miho_Mech_DesertSphex.description>Собрать ирнитоптер.</Miho_Mech_DesertSphex.description>
+
+  <!-- Тяжёлые мехи -->
+  <Miho_Mech_Bulgasal.label>сборка многоногого тяжёлого танка (ПТО)</Miho_Mech_Bulgasal.label>
+  <Miho_Mech_Bulgasal.description>Собрать многоногий тяжёлый танк (ПТО).</Miho_Mech_Bulgasal.description>
+
+  <Miho_Mech_BulgasalSiege.label>сборка многоногого тяжёлого танка (осада)</Miho_Mech_BulgasalSiege.label>
+  <Miho_Mech_BulgasalSiege.description>Собрать многоногий тяжёлый танк (осада).</Miho_Mech_BulgasalSiege.description>
+
+  <Miho_Mech_BulgasalGrenade.label>сборка многоногого тяжёлого танка (гранаты)</Miho_Mech_BulgasalGrenade.label>
+  <Miho_Mech_BulgasalGrenade.description>Собрать многоногий тяжёлый танк (гранаты).</Miho_Mech_BulgasalGrenade.description>
+
+  <Miho_Mech_Balbari.label>сборка тяжёлого танка поддержки пехоты</Miho_Mech_Balbari.label>
+  <Miho_Mech_Balbari.description>Собрать танк поддержки пехоты.</Miho_Mech_Balbari.description>
+
+  <!-- Лёгкие мехи -->
+  <Miho_Mech_Sapsal.label>сборка многоногого лёгкого танка (разведка)</Miho_Mech_Sapsal.label>
+  <Miho_Mech_Sapsal.description>Собрать многоногий лёгкий танк (разведка).</Miho_Mech_Sapsal.description>
+
+  <Miho_Mech_SapsalPsy.label>сборка многоногого лёгкого танка (пси‑поддержка)</Miho_Mech_SapsalPsy.label>
+  <Miho_Mech_SapsalPsy.description>Собрать многоногий лёгкий танк (пси‑поддержка).</Miho_Mech_SapsalPsy.description>
+
+  <!-- Ракетные CEV -->
+  <Miho_Mech_CataphractRocket.label>сборка многоногого БТМ (МРЛ)</Miho_Mech_CataphractRocket.label>
+  <Miho_Mech_CataphractRocket.description>Собрать многоногий БТМ (многозарядный ракетник).</Miho_Mech_CataphractRocket.description>
+
+  <Miho_Mech_CataphractCluRocket.label>сборка многоногого БТМ (кассетный ракетник)</Miho_Mech_CataphractCluRocket.label>
+  <Miho_Mech_CataphractCluRocket.description>Собрать многоногий БТМ (кассетный ракетник).</Miho_Mech_CataphractCluRocket.description>
+
 </LanguageData>

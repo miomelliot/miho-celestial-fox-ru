@@ -1,137 +1,186 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Miho_Schematic.label>Miho Schematic</Miho_Schematic.label>
-  <Miho_Schematic.description>This is Schematic for mihos.</Miho_Schematic.description>
+  <Miho_Schematic.label>Схема Михо</Miho_Schematic.label>
+  <Miho_Schematic.description>Схематическая карта для Михо.</Miho_Schematic.description>
   
-  <Miho_Tatami.label>Miho Tatami</Miho_Tatami.label>
-  <Miho_Tatami.description>This is Tatami.</Miho_Tatami.description>
-  <Miho_TableMachining.label>Miho General Workbench</Miho_TableMachining.label>
-  <Miho_TableMachining.description>This comprehensive workbench imitates 3D printers of human.</Miho_TableMachining.description>
-  <Miho_WorkAI.label>Miho Work Assistance AI</Miho_WorkAI.label>
-  <Miho_WorkAI.description>A work assistance AI comes with four personalities and a hologram projector. It can be connected to the Blast Furnace, Celestial Furnace, and General Workbench.</Miho_WorkAI.description>
-  <Plant_Ebony_Silk.label>Ebony Mulberry Tree</Plant_Ebony_Silk.label>
-  <Plant_Ebony_Silk.description>A giant mulberry tree inhabited by ebony silkworms. Mulberries are grow all year round fro this tree.</Plant_Ebony_Silk.description>
-  <Miho_Ebony_SilkCloth.label>Ebonsilk</Miho_Ebony_SilkCloth.label>
-  <Miho_Ebony_SilkCloth.description>silk is a beautiful, highly insulating silk made from burning the cocoons of medicinal herb-fed silkworms.</Miho_Ebony_SilkCloth.description>
-  <Miho_Ebony_Mulberry.label>Ebony Mulberry</Miho_Ebony_Mulberry.label>
-  <Miho_Ebony_Mulberry.description>The fruit of the Ebony mulberry tree. It is used as a medicinal ingredient and is delicious when eaten fresh. However, it has a short shelf life, so be cautious.</Miho_Ebony_Mulberry.description>
-  <Miho_PositiveFlower_ChildHuntress.label>Psychic Power Pill (Hunter)</Miho_PositiveFlower_ChildHuntress.label>
-  <Miho_PositiveFlower_ChildHuntress.description>A pill for children that blooms psychic powers. Has no effect on Miho already owning psychic powers.</Miho_PositiveFlower_ChildHuntress.description>
-  <Miho_PositiveFlower_ChildHuntress.ingestible.ingestCommandString>Inject {0}</Miho_PositiveFlower_ChildHuntress.ingestible.ingestCommandString>
-  <Miho_PositiveFlower_ChildHuntress.ingestible.ingestReportString>Injecting {0}.</Miho_PositiveFlower_ChildHuntress.ingestible.ingestReportString>
-  <Miho_PositiveFlower_ChildShamaness.label>Psychic Power Pill (Shaman)</Miho_PositiveFlower_ChildShamaness.label>
-  <Miho_PositiveFlower_ChildShamaness.description>A pill for children that blooms psychic powers. Has no effect on Miho already owning psychic powers.</Miho_PositiveFlower_ChildShamaness.description>
-  <Miho_PositiveFlower_ChildShamaness.ingestible.ingestCommandString>Inject {0}</Miho_PositiveFlower_ChildShamaness.ingestible.ingestCommandString>
-  <Miho_PositiveFlower_ChildShamaness.ingestible.ingestReportString>Injecting {0}.</Miho_PositiveFlower_ChildShamaness.ingestible.ingestReportString>
-  <Miho_PositiveFlower_ChildSummoner.label>Psychic Power Pill (Summoner)</Miho_PositiveFlower_ChildSummoner.label>
-  <Miho_PositiveFlower_ChildSummoner.description>A pill for children that blooms psychic powers. Has no effect on Miho already owning psychic powers.</Miho_PositiveFlower_ChildSummoner.description>
-  <Miho_PositiveFlower_ChildSummoner.ingestible.ingestCommandString>Inject {0}</Miho_PositiveFlower_ChildSummoner.ingestible.ingestCommandString>
-  <Miho_PositiveFlower_ChildSummoner.ingestible.ingestReportString>Injecting {0}.</Miho_PositiveFlower_ChildSummoner.ingestible.ingestReportString>
-  <Miho_PositiveFlower_ChildTemptress.label>Psychic Power Pill (Fatale)</Miho_PositiveFlower_ChildTemptress.label>
-  <Miho_PositiveFlower_ChildTemptress.description>A pill for children that blooms psychic powers. Has no effect on Miho already owning psychic powers.</Miho_PositiveFlower_ChildTemptress.description>
-  <Miho_PositiveFlower_ChildTemptress.ingestible.ingestCommandString>Inject {0}</Miho_PositiveFlower_ChildTemptress.ingestible.ingestCommandString>
-  <Miho_PositiveFlower_ChildTemptress.ingestible.ingestReportString>Injecting {0}.</Miho_PositiveFlower_ChildTemptress.ingestible.ingestReportString>
-  <Miho_PositiveFlower_ChildTinker.label>Psychic Power Pill (Tinker)</Miho_PositiveFlower_ChildTinker.label>
-  <Miho_PositiveFlower_ChildTinker.description>A pill for children that blooms psychic powers. Has no effect on Miho already owning psychic powers.</Miho_PositiveFlower_ChildTinker.description>
-  <Miho_PositiveFlower_ChildTinker.ingestible.ingestCommandString>Inject {0}</Miho_PositiveFlower_ChildTinker.ingestible.ingestCommandString>
-  <Miho_PositiveFlower_ChildTinker.ingestible.ingestReportString>Injecting {0}.</Miho_PositiveFlower_ChildTinker.ingestible.ingestReportString>
-  <Miho_PositiveFlower_Juice.label>Helianto decoction</Miho_PositiveFlower_Juice.label>
-  <Miho_PositiveFlower_Juice.description>A decoction containing high concentrations of mechanite components. Drinking it quickly calms nerve heat.</Miho_PositiveFlower_Juice.description>
-  <Miho_PositiveFlower_Juice.ingestible.ingestCommandString>Inject {0}</Miho_PositiveFlower_Juice.ingestible.ingestCommandString>
-  <Miho_PositiveFlower_Juice.ingestible.ingestReportString>Injecting {0}.</Miho_PositiveFlower_Juice.ingestible.ingestReportString>
-  <Miho_PositiveFlower_Pipe.label>Helianto cigarettes</Miho_PositiveFlower_Pipe.label>
-  <Miho_PositiveFlower_Pipe.description>Sunflower-dried cigarettes. Smoking it quickly replenishes Yang energy and improves mood.</Miho_PositiveFlower_Pipe.description>
-  <Miho_PositiveFlower_Pipe.ingestible.ingestCommandString>Smoke {0}</Miho_PositiveFlower_Pipe.ingestible.ingestCommandString>
-  <Miho_PositiveFlower_Pipe.ingestible.ingestReportString>Smoking {0}.</Miho_PositiveFlower_Pipe.ingestible.ingestReportString>
-  <Miho_PositiveFlower_Pipe.ingestible.ingestReportStringEat>Consuming {0}.</Miho_PositiveFlower_Pipe.ingestible.ingestReportStringEat>
-  <Miho_PositiveFlower_Tea.label>Helianto tea</Miho_PositiveFlower_Tea.label>
-  <Miho_PositiveFlower_Tea.description>Tea brewed from sunflower petals. It has a pleasant aroma and can make you feel somewhat drowsy when drunk.</Miho_PositiveFlower_Tea.description>
-  <Miho_PositiveFlower_Tea.ingestible.ingestCommandString>Drink {0}</Miho_PositiveFlower_Tea.ingestible.ingestCommandString>
-  <Miho_PositiveFlower_Tea.ingestible.ingestReportString>Drinking {0}.</Miho_PositiveFlower_Tea.ingestible.ingestReportString>
-  <Miho_CelestialForge.label>Miho Celestial Forge</Miho_CelestialForge.label>
-  <Miho_CelestialForge.description>An artificial sun generator for weaving celestial scales.</Miho_CelestialForge.description>
-  <Miho_ShaftFurnace.label>Miho Blast Furnace</Miho_ShaftFurnace.label>
-  <Miho_ShaftFurnace.description>A large furnace for producing ceramics and steel.</Miho_ShaftFurnace.description>
-  <Plant_PosFlower.label>Helianto</Plant_PosFlower.label>
-  <Plant_PosFlower.description>A genetically modified plant. It mainly acts as a signal beacon to collect substances that enhance Miho's psychic abilities.</Plant_PosFlower.description>
-  <RawPosFlower.label>Helianto Petals</RawPosFlower.label>
-  <RawPosFlower.description>Petals containing substances that help Miho manifest psychic abilities.</RawPosFlower.description>
-  <RawPosFlower_Dust.label>Helianto Powder</RawPosFlower_Dust.label>
-  <RawPosFlower_Dust.description>Pure powder made from concentrated mechanites in sunflower petals. Easier to store.</RawPosFlower_Dust.description>
-  <Miho_Hair_Filth.label>Miho fur</Miho_Hair_Filth.label>
-  <!-- 
-  <Miho_CeramicsPaste.label>Miho Ceramic Dough</Miho_CeramicsPaste.label>
-  <Miho_CeramicsPaste.description>Raw material for ceramics, well mixed with various elements.</Miho_CeramicsPaste.description>
+  <Miho_Tatami.label>Татами Михо</Miho_Tatami.label>
+  <Miho_Tatami.description>Простое татами.</Miho_Tatami.description>
+
+  <Miho_TableMachining.label>Универсальный рабочий стол Михо</Miho_TableMachining.label>
+  <Miho_TableMachining.description>Этот многофункциональный верстак имитирует человеческие 3D-принтеры.</Miho_TableMachining.description>
+
+  <Miho_WorkAI.label>Искусственный Интеллект-ассистент Михо</Miho_WorkAI.label>
+  <Miho_WorkAI.description>AI-помощник с четырьмя личностями и голографическим проектором. Может подключаться к доменной печи, небесной печи и универсальному верстаку.</Miho_WorkAI.description>
+
+  <Plant_Ebony_Silk.label>Чёрная шелковичная груша</Plant_Ebony_Silk.label>
+  <Plant_Ebony_Silk.description>Гигантское шелковичное дерево, в котором живут эбоновые шелкопряды. Плодоносит круглый год.</Plant_Ebony_Silk.description>
+
+  <Miho_Ebony_SilkCloth.label>Эбоншёлк</Miho_Ebony_SilkCloth.label>
+  <Miho_Ebony_SilkCloth.description>Красивый высокоизоляционный шёлк, полученный путём прокаливания коконов шелкопрядов, питавшихся лекарственными травами.</Miho_Ebony_SilkCloth.description>
+
+  <Miho_Ebony_Mulberry.label>Чёрная шелковица</Miho_Ebony_Mulberry.label>
+  <Miho_Ebony_Mulberry.description>Плод чёрной шелковицы. Используется как лечебный ингредиент и вкусен в свежем виде, но плохо хранится.</Miho_Ebony_Mulberry.description>
+
+  <Miho_PositiveFlower_ChildHuntress.label>Психо-таблетка (Охотник)</Miho_PositiveFlower_ChildHuntress.label>
+  <Miho_PositiveFlower_ChildHuntress.description>Таблетка, раскрывающая пси-способности у детей. Не действует на Михо, уже владеющих психикою.</Miho_PositiveFlower_ChildHuntress.description>
+  <Miho_PositiveFlower_ChildHuntress.ingestible.ingestCommandString>Ввести {0}</Miho_PositiveFlower_ChildHuntress.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_ChildHuntress.ingestible.ingestReportString>Вводит {0}.</Miho_PositiveFlower_ChildHuntress.ingestible.ingestReportString>
+
+  <Miho_PositiveFlower_ChildShamaness.label>Психо-таблетка (Шаман)</Miho_PositiveFlower_ChildShamaness.label>
+  <Miho_PositiveFlower_ChildShamaness.description>Таблетка, раскрывающая пси-способности у детей. Не действует на Михо, уже владеющих психикою.</Miho_PositiveFlower_ChildShamaness.description>
+  <Miho_PositiveFlower_ChildShamaness.ingestible.ingestCommandString>Ввести {0}</Miho_PositiveFlower_ChildShamaness.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_ChildShamaness.ingestible.ingestReportString>Вводит {0}.</Miho_PositiveFlower_ChildShamaness.ingestible.ingestReportString>
+
+  <Miho_PositiveFlower_ChildSummoner.label>Психо-таблетка (Призыватель)</Miho_PositiveFlower_ChildSummoner.label>
+  <Miho_PositiveFlower_ChildSummoner.description>Таблетка, раскрывающая пси-способности у детей. Не действует на Михо, уже владеющих психикою.</Miho_PositiveFlower_ChildSummoner.description>
+  <Miho_PositiveFlower_ChildSummoner.ingestible.ingestCommandString>Ввести {0}</Miho_PositiveFlower_ChildSummoner.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_ChildSummoner.ingestible.ingestReportString>Вводит {0}.</Miho_PositiveFlower_ChildSummoner.ingestible.ingestReportString>
+
+  <Miho_PositiveFlower_ChildTemptress.label>Психо-таблетка (Фаталь)</Miho_PositiveFlower_ChildTemptress.label>
+  <Miho_PositiveFlower_ChildTemptress.description>Таблетка, раскрывающая пси-способности у детей. Не действует на Михо, уже владеющих психикою.</Miho_PositiveFlower_ChildTemptress.description>
+  <Miho_PositiveFlower_ChildTemptress.ingestible.ingestCommandString>Ввести {0}</Miho_PositiveFlower_ChildTemptress.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_ChildTemptress.ingestible.ingestReportString>Вводит {0}.</Miho_PositiveFlower_ChildTemptress.ingestible.ingestReportString>
+
+  <Miho_PositiveFlower_ChildTinker.label>Психо-таблетка (Мастер)</Miho_PositiveFlower_ChildTinker.label>
+  <Miho_PositiveFlower_ChildTinker.description>Таблетка, раскрывающая пси-способности у детей. Не действует на Михо, уже владеющих психикою.</Miho_PositiveFlower_ChildTinker.description>
+  <Miho_PositiveFlower_ChildTinker.ingestible.ingestCommandString>Ввести {0}</Miho_PositiveFlower_ChildTinker.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_ChildTinker.ingestible.ingestReportString>Вводит {0}.</Miho_PositiveFlower_ChildTinker.ingestible.ingestReportString>
+
+  <Miho_PositiveFlower_Juice.label>Отвар Хелианто</Miho_PositiveFlower_Juice.label>
+  <Miho_PositiveFlower_Juice.description>Отвар с высокой концентрацией механитов. Быстро охлаждает нервный жар.</Miho_PositiveFlower_Juice.description>
+  <Miho_PositiveFlower_Juice.ingestible.ingestCommandString>Выпить {0}</Miho_PositiveFlower_Juice.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_Juice.ingestible.ingestReportString>Пьёт {0}.</Miho_PositiveFlower_Juice.ingestible.ingestReportString>
+
+  <Miho_PositiveFlower_Pipe.label>Сигареты Хелианто</Miho_PositiveFlower_Pipe.label>
+  <Miho_PositiveFlower_Pipe.description>Сушёные на солнце сигареты. Быстро пополняют ян-энергию и поднимают настроение.</Miho_PositiveFlower_Pipe.description>
+  <Miho_PositiveFlower_Pipe.ingestible.ingestCommandString>Курить {0}</Miho_PositiveFlower_Pipe.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_Pipe.ingestible.ingestReportString>Курит {0}.</Miho_PositiveFlower_Pipe.ingestible.ingestReportString>
+  <Miho_PositiveFlower_Pipe.ingestible.ingestReportStringEat>Поглощает {0}.</Miho_PositiveFlower_Pipe.ingestible.ingestReportStringEat>
+
+  <Miho_PositiveFlower_Tea.label>Чай Хелианто</Miho_PositiveFlower_Tea.label>
+  <Miho_PositiveFlower_Tea.description>Чай из лепестков подсолнуха. Ароматен и слегка клонит в сон.</Miho_PositiveFlower_Tea.description>
+  <Miho_PositiveFlower_Tea.ingestible.ingestCommandString>Пить {0}</Miho_PositiveFlower_Tea.ingestible.ingestCommandString>
+  <Miho_PositiveFlower_Tea.ingestible.ingestReportString>Пьёт {0}.</Miho_PositiveFlower_Tea.ingestible.ingestReportString>
+
+  <Miho_CelestialForge.label>Небесная кузня Михо</Miho_CelestialForge.label>
+  <Miho_CelestialForge.description>Искусственный генератор-солнце для ковки небесных чешуек.</Miho_CelestialForge.description>
+
+  <Miho_ShaftFurnace.label>Доменная печь Михо</Miho_ShaftFurnace.label>
+  <Miho_ShaftFurnace.description>Большая печь для выплавки керамики и стали.</Miho_ShaftFurnace.description>
+
+  <Plant_PosFlower.label>Хелианто</Plant_PosFlower.label>
+  <Plant_PosFlower.description>Генетически модифицированное растение-маяк, собирающее вещества, усиливающие пси-способности Михо.</Plant_PosFlower.description>
+
+  <RawPosFlower.label>Лепестки Хелианто</RawPosFlower.label>
+  <RawPosFlower.description>Лепестки, содержащие вещества, помогающие проявлению пси-сил.</RawPosFlower.description>
+
+  <RawPosFlower_Dust.label>Порошок Хелианто</RawPosFlower_Dust.label>
+  <RawPosFlower_Dust.description>Чистый порошок концентрированных механитов из лепестков. Хранится легче.</RawPosFlower_Dust.description>
+
+  <Miho_Hair_Filth.label>Мех Михо</Miho_Hair_Filth.label>
+
+  <!--
+  <Miho_CeramicsPaste.label>Керамическое тесто Михо</Miho_CeramicsPaste.label>
+  <Miho_CeramicsPaste.description>Сырьё для керамики, тщательно смешанное с элементами.</Miho_CeramicsPaste.description>
   -->
-  <Miho_Ceramics.label>Miho Ceramic</Miho_Ceramics.label>
-  <Miho_Ceramics.description>Durable pottery.</Miho_Ceramics.description>
-  <Miho_MilitaryGradeBalisticCeramics.label>Miho Military Ballistic Ceramics</Miho_MilitaryGradeBalisticCeramics.label>
-  <Miho_MilitaryGradeBalisticCeramics.description>Reinforced material combining steel and ceramics.</Miho_MilitaryGradeBalisticCeramics.description>
-  <Miho_CelestialScale.label>Celestial Scale</Miho_CelestialScale.label>
-  <Miho_CelestialScale.description>The most powerful alloy in human history, made of highly compressed plasteel and exotic matter with negative mass... as explained by the Miho.</Miho_CelestialScale.description>
-  <Miho_ExoticMatter.label>Exotic Matter</Miho_ExoticMatter.label>
-  <Miho_ExoticMatter.description>A rare substance with negative mass, scarcely found in the rimworld.</Miho_ExoticMatter.description>
-  <Miho_HeavyMechCore.label>Miho Heavy Mechanite Core</Miho_HeavyMechCore.label>
-  <Miho_HeavyMechCore.description>A Heavy mechanite engine used in Miho's large mechanoids.</Miho_HeavyMechCore.description>
-  <Miho_InariZushi.label>Miho Inari Sushi</Miho_InariZushi.label>
-  <Miho_InariZushi.description>Sushi lunchbox favored by foxes. Made using alternative tofu.</Miho_InariZushi.description>
-  <Miho_DummyWeapon_DO_NOT_SPAWN.label>psychic abilities</Miho_DummyWeapon_DO_NOT_SPAWN.label>
-  <Miho_DummyWeapon_DO_NOT_SPAWN.description>Only here so that the battle log doesn't break when someone is hit by a psychic ability.</Miho_DummyWeapon_DO_NOT_SPAWN.description>
-  <Miho_Ability_Starfall_Proj.label>Knife</Miho_Ability_Starfall_Proj.label>
-  <Miho_Ability_Starfall_Proj.label>Knife</Miho_Ability_Starfall_Proj.label>
-  <Miho_Hawk_Proj.label>Hawk</Miho_Hawk_Proj.label>
-  <Miho_Ensnare_Proj.label>Ensnare</Miho_Ensnare_Proj.label>
-  <Miho_Fireball_Small_Proj.label>fireball</Miho_Fireball_Small_Proj.label>
-  <Miho_Fireball_Proj.label>fireball</Miho_Fireball_Proj.label>
-  <Miho_Fireball_Adept_Proj.label>fire arrow</Miho_Fireball_Adept_Proj.label>
-  <Miho_Fireball_Adept_Proj.label>javelin</Miho_Fireball_Adept_Proj.label>
-  <Miho_PredatoryGaze_Proj.label>javelin</Miho_PredatoryGaze_Proj.label>
-  <Miho_TalismanStun_Proj.label>Talisman</Miho_TalismanStun_Proj.label>
-  <Miho_FanofKnives_Proj.label>knife</Miho_FanofKnives_Proj.label>
-  <Miho_Butterfly_Portal_Dummy.label>Blade Butterfly Portal Dummy</Miho_Butterfly_Portal_Dummy.label>
-  <Miho_Butterfly_Portal_Dummy.description>Blade Butterfly Portal Dummy.</Miho_Butterfly_Portal_Dummy.description>
-  <Miho_Butterfly_Portal.label>Blade Butterfly Portal</Miho_Butterfly_Portal.label>
-  <Miho_Butterfly_Portal.description>Blade Butterfly Portal.</Miho_Butterfly_Portal.description>
-  <Miho_Hawk_Portal.label>Hawk Portal</Miho_Hawk_Portal.label>
-  <Miho_Hawk_Portal.description>Hawk Portal.</Miho_Hawk_Portal.description>
-  <Miho_ButterflyHaze_Portal.label>Blade Butterfly Portal</Miho_ButterflyHaze_Portal.label>
-  <Miho_ButterflyHaze_Portal.description>Blade Butterfly Portal.</Miho_ButterflyHaze_Portal.description>
-  <Miho_Fox_Portal.label>Carrying Fox Portal</Miho_Fox_Portal.label>
-  <Miho_Fox_Portal.description>Carrying Fox Portal.</Miho_Fox_Portal.description>
-  <Miho_Abomi_Portal.label>Mechanite Abomination Portal</Miho_Abomi_Portal.label>
-  <Miho_Abomi_Portal.description>Mechanite Abomination Portal.</Miho_Abomi_Portal.description>
-  <Miho_Turret_Flame.label>Foxfire Furnace</Miho_Turret_Flame.label>
-  <Miho_Turret_Flame.description>A turret that looks like a furnace.</Miho_Turret_Flame.description>
-  <Miho_TurretGun_Flame_Proj.label>fireball</Miho_TurretGun_Flame_Proj.label>
-  <Miho_TurretGun_Flame.label>turret gun</Miho_TurretGun_Flame.label>
+
+  <Miho_Ceramics.label>Керамика Михо</Miho_Ceramics.label>
+  <Miho_Ceramics.description>Прочная глиняная посуда.</Miho_Ceramics.description>
+
+  <Miho_MilitaryGradeBalisticCeramics.label>Баллистическая керамика Михо</Miho_MilitaryGradeBalisticCeramics.label>
+  <Miho_MilitaryGradeBalisticCeramics.description>Укреплённый материал из стали и керамики.</Miho_MilitaryGradeBalisticCeramics.description>
+
+  <Miho_CelestialScale.label>Небесная чешуйка</Miho_CelestialScale.label>
+  <Miho_CelestialScale.description>Самый прочный сплав в истории человечества: сверхплотная пласталь плюс экзотическая материя с отрицательной массой… по версии Михо.</Miho_CelestialScale.description>
+
+  <Miho_ExoticMatter.label>Экзотическая материя</Miho_ExoticMatter.label>
+  <Miho_ExoticMatter.description>Редкое вещество с отрицательной массой, почти не встречается на окраинах.</Miho_ExoticMatter.description>
+
+  <Miho_HeavyMechCore.label>Тяжёлое ядро механитов Михо</Miho_HeavyMechCore.label>
+  <Miho_HeavyMechCore.description>Двигатель-механит для крупных механоидов Михо.</Miho_HeavyMechCore.description>
+
+  <Miho_InariZushi.label>Инаари-суши Михо</Miho_InariZushi.label>
+  <Miho_InariZushi.description>Коробочка суши, любимая лисами. Готовится с альтернативным тофу.</Miho_InariZushi.description>
+
+  <Miho_DummyWeapon_DO_NOT_SPAWN.label>пси-способности</Miho_DummyWeapon_DO_NOT_SPAWN.label>
+  <Miho_DummyWeapon_DO_NOT_SPAWN.description>Нужно лишь затем, чтобы боевой журнал не ломался, когда кто-то поражён пси-способностью.</Miho_DummyWeapon_DO_NOT_SPAWN.description>
+
+  <Miho_Ability_Starfall_Proj.label>нож</Miho_Ability_Starfall_Proj.label>
+  <Miho_Ability_Starfall_Proj.label>нож</Miho_Ability_Starfall_Proj.label>
+
+  <Miho_Hawk_Proj.label>ястреб</Miho_Hawk_Proj.label>
+  <Miho_Ensnare_Proj.label>силки</Miho_Ensnare_Proj.label>
+
+  <Miho_Fireball_Small_Proj.label>огненный шар</Miho_Fireball_Small_Proj.label>
+  <Miho_Fireball_Proj.label>огненный шар</Miho_Fireball_Proj.label>
+  <Miho_Fireball_Adept_Proj.label>огненная стрела</Miho_Fireball_Adept_Proj.label>
+  <Miho_Fireball_Adept_Proj.label>дротик</Miho_Fireball_Adept_Proj.label>
+
+  <Miho_PredatoryGaze_Proj.label>дротик</Miho_PredatoryGaze_Proj.label>
+  <Miho_TalismanStun_Proj.label>талисман</Miho_TalismanStun_Proj.label>
+  <Miho_FanofKnives_Proj.label>нож</Miho_FanofKnives_Proj.label>
+
+  <Miho_Butterfly_Portal_Dummy.label>Портал клинковых бабочек (манекен)</Miho_Butterfly_Portal_Dummy.label>
+  <Miho_Butterfly_Portal_Dummy.description>Манекен портала клинковых бабочек.</Miho_Butterfly_Portal_Dummy.description>
+
+  <Miho_Butterfly_Portal.label>Портал клинковых бабочек</Miho_Butterfly_Portal.label>
+  <Miho_Butterfly_Portal.description>Портал клинковых бабочек.</Miho_Butterfly_Portal.description>
+
+  <Miho_Hawk_Portal.label>Портал ястреба</Miho_Hawk_Portal.label>
+  <Miho_Hawk_Portal.description>Портал ястреба.</Miho_Hawk_Portal.description>
+
+  <Miho_ButterflyHaze_Portal.label>Портал клинковых бабочек</Miho_ButterflyHaze_Portal.label>
+  <Miho_ButterflyHaze_Portal.description>Портал клинковых бабочек.</Miho_ButterflyHaze_Portal.description>
+
+  <Miho_Fox_Portal.label>Портал грузовой лисы</Miho_Fox_Portal.label>
+  <Miho_Fox_Portal.description>Портал грузовой лисы.</Miho_Fox_Portal.description>
+
+  <Miho_Abomi_Portal.label>Портал механоидного отродья</Miho_Abomi_Portal.label>
+  <Miho_Abomi_Portal.description>Портал механоидного отродья.</Miho_Abomi_Portal.description>
+
+  <Miho_Turret_Flame.label>Лисья печь-турель</Miho_Turret_Flame.label>
+  <Miho_Turret_Flame.description>Турель, выглядящая как печь.</Miho_Turret_Flame.description>
+
+  <Miho_TurretGun_Flame_Proj.label>огненный шар</Miho_TurretGun_Flame_Proj.label>
+  <Miho_TurretGun_Flame.label>ствол турели</Miho_TurretGun_Flame.label>
   <Miho_TurretGun_Flame.description>.</Miho_TurretGun_Flame.description>
-  <Miho_Butterfly.label>Blade Butterfly</Miho_Butterfly.label>
-  <Miho_Butterfly.description>A mechanite lifeform with sharp wings.</Miho_Butterfly.description>
-  <Miho_Butterfly.tools.0.label>blades</Miho_Butterfly.tools.0.label>
-  <Miho_Hawk.label>Hunting Hawk</Miho_Hawk.label>
-  <Miho_Hawk.description>A mechanite lifeform with a sharp beak.</Miho_Hawk.description>
-  <Miho_Hawk.tools.0.label>Beak</Miho_Hawk.tools.0.label>
-  <Miho_Fox.label>Miho Carrying Fox</Miho_Fox.label>
-  <Miho_Fox.description>A mechanite lifeform skilled in transport.</Miho_Fox.description>
-  <Miho_Fox.tools.0.label>left claw</Miho_Fox.tools.0.label>
-  <Miho_Fox.tools.1.label>right claw</Miho_Fox.tools.1.label>
-  <Miho_Fox.tools.3.label>head</Miho_Fox.tools.3.label>
-  <Miho_Abomi.label>Mechanite Abomination</Miho_Abomi.label>
-  <Miho_Abomi.description>A hideously mutated secret weapon. Take a good look at it...</Miho_Abomi.description>
-  <Miho_Abomi.tools.0.label>tentacles</Miho_Abomi.tools.0.label>
-  <Miho_Abomi.tools.1.label>head</Miho_Abomi.tools.1.label>
-  <Filth_MihoMechanite.label>Mechanite Crystal</Filth_MihoMechanite.label>
-  <Miho_BulletShieldPsychic.label>Fox Shield</Miho_BulletShieldPsychic.label>
-  <Miho_Butterfly_Spawn_Proj.label>MihoSpawner</Miho_Butterfly_Spawn_Proj.label>
-  <Miho_Fox_Spawn_Proj.label>MihoSpawner</Miho_Fox_Spawn_Proj.label>
-  <Miho_Abomi_Spawn_Proj.label>MihoSpawner</Miho_Abomi_Spawn_Proj.label>
-  <Miho_Turret_Spawn_Proj.label>MihoSpawner</Miho_Turret_Spawn_Proj.label>
-  <Miho_NeuroSlow_Proj.label>NeuroSlow</Miho_NeuroSlow_Proj.label>
-  <Miho_NeuroKill_Proj.label>NeuroKill</Miho_NeuroKill_Proj.label>
-  <Miho_Power_Spawn_Proj.label>MihoSpawner</Miho_Power_Spawn_Proj.label>
-  <Miho_UnstablePowerCell.label>Borrowed Generator</Miho_UnstablePowerCell.label>
-  <Miho_UnstablePowerCell.description>A high-performance generator stolen from somewhere. It returns to its original place after a certain period due to its instability.</Miho_UnstablePowerCell.description>
+
+  <Miho_Butterfly.label>Клинковая бабочка</Miho_Butterfly.label>
+  <Miho_Butterfly.description>Механитовое существо с острыми крыльями.</Miho_Butterfly.description>
+  <Miho_Butterfly.tools.0.label>клинки</Miho_Butterfly.tools.0.label>
+
+  <Miho_Hawk.label>Охотничий ястреб</Miho_Hawk.label>
+  <Miho_Hawk.description>Механитовое существо с острым клювом.</Miho_Hawk.description>
+  <Miho_Hawk.tools.0.label>клюв</Miho_Hawk.tools.0.label>
+
+  <Miho_Fox.label>Грузовая лиса Михо</Miho_Fox.label>
+  <Miho_Fox.description>Механитовое существо, умелое в транспортировке.</Miho_Fox.description>
+  <Miho_Fox.tools.0.label>левая когтистая лапа</Miho_Fox.tools.0.label>
+  <Miho_Fox.tools.1.label>правая когтистая лапа</Miho_Fox.tools.1.label>
+  <Miho_Fox.tools.3.label>голова</Miho_Fox.tools.3.label>
+
+  <Miho_Abomi.label>Механитовое отродье</Miho_Abomi.label>
+  <Miho_Abomi.description>Ужасно мутировавшее секретное оружие. Рассмотри как следует…</Miho_Abomi.description>
+  <Miho_Abomi.tools.0.label>щупальца</Miho_Abomi.tools.0.label>
+  <Miho_Abomi.tools.1.label>голова</Miho_Abomi.tools.1.label>
+
+  <Filth_MihoMechanite.label>Кристалл механитов</Filth_MihoMechanite.label>
+
+  <Miho_BulletShieldPsychic.label>Лисий щит</Miho_BulletShieldPsychic.label>
+
+  <Miho_Butterfly_Spawn_Proj.label>Спавнер Михо</Miho_Butterfly_Spawn_Proj.label>
+  <Miho_Fox_Spawn_Proj.label>Спавнер Михо</Miho_Fox_Spawn_Proj.label>
+  <Miho_Abomi_Spawn_Proj.label>Спавнер Михо</Miho_Abomi_Spawn_Proj.label>
+  <Miho_Turret_Spawn_Proj.label>Спавнер Михо</Miho_Turret_Spawn_Proj.label>
+
+  <Miho_NeuroSlow_Proj.label>Нейро-замедлитель</Miho_NeuroSlow_Proj.label>
+  <Miho_NeuroKill_Proj.label>Нейро-киллер</Miho_NeuroKill_Proj.label>
+  <Miho_Power_Spawn_Proj.label>Спавнер Михо</Miho_Power_Spawn_Proj.label>
+
+  <Miho_UnstablePowerCell.label>Одолженный генератор</Miho_UnstablePowerCell.label>
+  <Miho_UnstablePowerCell.description>Высокопроизводительный генератор, украденный неизвестно где. Через время из-за нестабильности возвращается на исходное место.</Miho_UnstablePowerCell.description>
+
   <Miho_Apparel_Hat_Winter.label>Miho Beanie</Miho_Apparel_Hat_Winter.label>
   <Miho_Apparel_Hat_Winter.description>Thick and warm hat.</Miho_Apparel_Hat_Winter.description>
   <Miho_Apparel_Mask_Eltex.label>Miho Eltex Mask</Miho_Apparel_Mask_Eltex.label>

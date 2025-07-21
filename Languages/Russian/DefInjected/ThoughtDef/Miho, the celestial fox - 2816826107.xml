@@ -1,53 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Ate_Miho_Ebony_Mulberry.stages.0.label>Ate Ebony_Mulberry</Ate_Miho_Ebony_Mulberry.stages.0.label>
-  <Ate_Miho_Ebony_Mulberry.stages.0.description>This fruit is really great.</Ate_Miho_Ebony_Mulberry.stages.0.description>
-  <Miho_PositiveFlower_Juice_Withdrawal.stages.1.label>Helianto dangerous drug Deficiency</Miho_PositiveFlower_Juice_Withdrawal.stages.1.label>
-  <Miho_PositiveFlower_Juice_Withdrawal.stages.1.description>It's just... terrible headache...</Miho_PositiveFlower_Juice_Withdrawal.stages.1.description>
-  <Miho_PositiveFlower_Tea_Withdrawal.stages.1.label>Helianto Deficiency</Miho_PositiveFlower_Tea_Withdrawal.stages.1.label>
-  <Miho_PositiveFlower_Tea_Withdrawal.stages.1.description>I miss that flower scent.</Miho_PositiveFlower_Tea_Withdrawal.stages.1.description>
-  <Miho_Plus_Thought.stages.0.label>Yang Energy Deficiency</Miho_Plus_Thought.stages.0.label>
-  <Miho_Plus_Thought.stages.0.description>Krrrr!</Miho_Plus_Thought.stages.0.description>
-  <Miho_Plus_Thought.stages.1.label>Lack of Yang Energy</Miho_Plus_Thought.stages.1.label>
-  <Miho_Plus_Thought.stages.1.description>I need more yang energy! All kinds of raw emotions are tormenting me.</Miho_Plus_Thought.stages.1.description>
-  <Miho_Plus_Thought.stages.3.label>Enough Yang Energy</Miho_Plus_Thought.stages.3.label>
-  <Miho_Plus_Thought.stages.3.description>I have enough yang energy. It fills like I'm a real human.</Miho_Plus_Thought.stages.3.description>
-  <Miho_Plus_Thought.stages.4.label>Fulfilled Yang Energy</Miho_Plus_Thought.stages.4.label>
-  <Miho_Plus_Thought.stages.4.description>I have fulfilled yang energy. It fills like I'm a real human.</Miho_Plus_Thought.stages.4.description>
-  <Miho_PositiveFlower_Pipe_High_Thought.stages.0.label>Smoke Helianto Cigarette</Miho_PositiveFlower_Pipe_High_Thought.stages.0.label>
-  <Miho_PositiveFlower_Pipe_High_Thought.stages.0.description>I feel like my mind has become clearer.</Miho_PositiveFlower_Pipe_High_Thought.stages.0.description>
-  <Miho_PositiveFlower_Tea_High_Thought.stages.0.label>Drink Helianto Tea</Miho_PositiveFlower_Tea_High_Thought.stages.0.label>
-  <Miho_PositiveFlower_Tea_High_Thought.stages.0.description>Delicious tea.</Miho_PositiveFlower_Tea_High_Thought.stages.0.description>
-  <Miho_PositiveFlower_Thought.stages.0.label>Ate Raw Helianto Flower</Miho_PositiveFlower_Thought.stages.0.label>
-  <Miho_PositiveFlower_Thought.stages.0.description>Sweet, and flower scent. It is not good to eat raw...</Miho_PositiveFlower_Thought.stages.0.description>
-  <Miho_Tail_Thought.stages.2.label>Excited</Miho_Tail_Thought.stages.2.label>
-  <Miho_Tail_Thought.stages.2.description>Everything is excited! I think I found my way. (Swinging tail)</Miho_Tail_Thought.stages.2.description>
-  <MihoNuzzled.stages.0.label>nuzzled</MihoNuzzled.stages.0.label>
-  <MihoNuzzled.stages.0.description>This inferior thing has nothing better than me, but loved by humans just because it's cute? I can't accept it.</MihoNuzzled.stages.0.description>
-  <MihoKilledMyBondedAnimal.stages.0.label>Execute Personal Property</MihoKilledMyBondedAnimal.stages.0.label>
-  <MihoBondedAnimalMaster.stages.0.label>{0}'s owner</MihoBondedAnimalMaster.stages.0.label>
-  <MihoBondedAnimalMaster.stages.0.description>This inferior thing serving me. It feels weird.</MihoBondedAnimalMaster.stages.0.description>
-  <MihoBondedAnimalMaster.stages.1.label>{0}'s owner</MihoBondedAnimalMaster.stages.1.label>
-  <MihoBondedAnimalMaster.stages.1.description>This inferior thing serving me. It feels weird.</MihoBondedAnimalMaster.stages.1.description>
-  <MihoNotBondedAnimalMaster.stages.0.label>Not {0}'s owner</MihoNotBondedAnimalMaster.stages.0.label>
-  <MihoNotBondedAnimalMaster.stages.0.description>It's not related with me.</MihoNotBondedAnimalMaster.stages.0.description>
-  <MihoNotBondedAnimalMaster.stages.1.label>Not {0}'s owner</MihoNotBondedAnimalMaster.stages.1.label>
-  <MihoNotBondedAnimalMaster.stages.1.description>It's not related with me.</MihoNotBondedAnimalMaster.stages.1.description>
-  <MihoAteInariZushi.stages.0.label>Ate Inari Sushi</MihoAteInariZushi.stages.0.label>
-  <MihoAteInariZushi.stages.0.description>The heavenly taste fulfilled my soul! I like it.</MihoAteInariZushi.stages.0.description>
-  <NotMihoAteInariZushi.stages.0.label>Ate Inari Sushi</NotMihoAteInariZushi.stages.0.label>
-  <NotMihoAteInariZushi.stages.0.description>light taste.</NotMihoAteInariZushi.stages.0.description>
-  <Miho_AbomiSeen_Hediff_Thought.stages.0.label>Sighting "The Thing"</Miho_AbomiSeen_Hediff_Thought.stages.0.label>
-  <Miho_AbomiSeen_Hediff_Thought.stages.0.description>(Urinate)</Miho_AbomiSeen_Hediff_Thought.stages.0.description>
-  <Miho_Seduce_Hediff_Thought.stages.0.label>nuzzled</Miho_Seduce_Hediff_Thought.stages.0.label>
+  <Ate_Miho_Ebony_Mulberry.stages.0.label>Съедена чёрная шелковица</Ate_Miho_Ebony_Mulberry.stages.0.label>
+  <Ate_Miho_Ebony_Mulberry.stages.0.description>Этот фрукт просто потрясающий.</Ate_Miho_Ebony_Mulberry.stages.0.description>
+
+  <Miho_PositiveFlower_Juice_Withdrawal.stages.1.label>Дефицит Хелианто (сильный)</Miho_PositiveFlower_Juice_Withdrawal.stages.1.label>
+  <Miho_PositiveFlower_Juice_Withdrawal.stages.1.description>Это просто... ужасная головная боль...</Miho_PositiveFlower_Juice_Withdrawal.stages.1.description>
+
+  <Miho_PositiveFlower_Tea_Withdrawal.stages.1.label>Дефицит Хелианто</Miho_PositiveFlower_Tea_Withdrawal.stages.1.label>
+  <Miho_PositiveFlower_Tea_Withdrawal.stages.1.description>Я скучаю по этому цветочному аромату.</Miho_PositiveFlower_Tea_Withdrawal.stages.1.description>
+
+  <Miho_Plus_Thought.stages.0.label>Недостаток ян-энергии</Miho_Plus_Thought.stages.0.label>
+  <Miho_Plus_Thought.stages.0.description>Крррр!</Miho_Plus_Thought.stages.0.description>
+
+  <Miho_Plus_Thought.stages.1.label>Сильный недостаток ян-энергии</Miho_Plus_Thought.stages.1.label>
+  <Miho_Plus_Thought.stages.1.description>Мне срочно нужна ян-энергия! Меня терзают эмоции.</Miho_Plus_Thought.stages.1.description>
+
+  <Miho_Plus_Thought.stages.3.label>Достаточно ян-энергии</Miho_Plus_Thought.stages.3.label>
+  <Miho_Plus_Thought.stages.3.description>Во мне достаточно ян-энергии. Чувствую себя настоящим человеком.</Miho_Plus_Thought.stages.3.description>
+
+  <Miho_Plus_Thought.stages.4.label>Полный заряд ян-энергии</Miho_Plus_Thought.stages.4.label>
+  <Miho_Plus_Thought.stages.4.description>Я наполнен ян-энергией. Словно я — настоящий человек.</Miho_Plus_Thought.stages.4.description>
+
+  <Miho_PositiveFlower_Pipe_High_Thought.stages.0.label>Покурил сигарету Хелианто</Miho_PositiveFlower_Pipe_High_Thought.stages.0.label>
+  <Miho_PositiveFlower_Pipe_High_Thought.stages.0.description>Кажется, сознание прояснилось.</Miho_PositiveFlower_Pipe_High_Thought.stages.0.description>
+
+  <Miho_PositiveFlower_Tea_High_Thought.stages.0.label>Выпил чай Хелианто</Miho_PositiveFlower_Tea_High_Thought.stages.0.label>
+  <Miho_PositiveFlower_Tea_High_Thought.stages.0.description>Восхитительный чай.</Miho_PositiveFlower_Tea_High_Thought.stages.0.description>
+
+  <Miho_PositiveFlower_Thought.stages.0.label>Съел цветок Хелианто (сырой)</Miho_PositiveFlower_Thought.stages.0.label>
+  <Miho_PositiveFlower_Thought.stages.0.description>Сладкий, с цветочным ароматом. Но в сыром виде — не лучшая идея…</Miho_PositiveFlower_Thought.stages.0.description>
+
+  <Miho_Tail_Thought.stages.2.label>Воодушевлён</Miho_Tail_Thought.stages.2.label>
+  <Miho_Tail_Thought.stages.2.description>Всё так захватывающе! Кажется, я нашёл свой путь! (Хвост виляется)</Miho_Tail_Thought.stages.2.description>
+
+  <MihoNuzzled.stages.0.label>прижался</MihoNuzzled.stages.0.label>
+  <MihoNuzzled.stages.0.description>Это жалкое существо ничем не лучше меня, но люди его любят только за милоту? Я не могу это принять.</MihoNuzzled.stages.0.description>
+
+  <MihoKilledMyBondedAnimal.stages.0.label>Казнить личную собственность</MihoKilledMyBondedAnimal.stages.0.label>
+
+  <MihoBondedAnimalMaster.stages.0.label>Хозяин {0}</MihoBondedAnimalMaster.stages.0.label>
+  <MihoBondedAnimalMaster.stages.0.description>Это жалкое создание мне служит. Странное чувство.</MihoBondedAnimalMaster.stages.0.description>
+  <MihoBondedAnimalMaster.stages.1.label>Хозяин {0}</MihoBondedAnimalMaster.stages.1.label>
+  <MihoBondedAnimalMaster.stages.1.description>Это жалкое создание мне служит. Странное чувство.</MihoBondedAnimalMaster.stages.1.description>
+
+  <MihoNotBondedAnimalMaster.stages.0.label>Не хозяин {0}</MihoNotBondedAnimalMaster.stages.0.label>
+  <MihoNotBondedAnimalMaster.stages.0.description>Оно ко мне не имеет отношения.</MihoNotBondedAnimalMaster.stages.0.description>
+  <MihoNotBondedAnimalMaster.stages.1.label>Не хозяин {0}</MihoNotBondedAnimalMaster.stages.1.label>
+  <MihoNotBondedAnimalMaster.stages.1.description>Оно ко мне не имеет отношения.</MihoNotBondedAnimalMaster.stages.1.description>
+
+  <MihoAteInariZushi.stages.0.label>Съел Инаари-суши</MihoAteInariZushi.stages.0.label>
+  <MihoAteInariZushi.stages.0.description>Божественный вкус наполнил мою душу! Обожаю это.</MihoAteInariZushi.stages.0.description>
+
+  <NotMihoAteInariZushi.stages.0.label>Съел Инаари-суши</NotMihoAteInariZushi.stages.0.label>
+  <NotMihoAteInariZushi.stages.0.description>Лёгкий вкус.</NotMihoAteInariZushi.stages.0.description>
+
+  <Miho_AbomiSeen_Hediff_Thought.stages.0.label>Увидел "ЭТО"</Miho_AbomiSeen_Hediff_Thought.stages.0.label>
+  <Miho_AbomiSeen_Hediff_Thought.stages.0.description>(Обмочился)</Miho_AbomiSeen_Hediff_Thought.stages.0.description>
+
+  <Miho_Seduce_Hediff_Thought.stages.0.label>прижался</Miho_Seduce_Hediff_Thought.stages.0.label>
   <Miho_Seduce_Hediff_Thought.stages.0.description>!!!</Miho_Seduce_Hediff_Thought.stages.0.description>
-  <SunlightSensitivity_Miho.stages.0.label>Bathed in Sunlight</SunlightSensitivity_Miho.stages.0.label>
-  <SunlightSensitivity_Miho.stages.0.description>Haaah I like Thisss...</SunlightSensitivity_Miho.stages.0.description>
-  
-  <Miho_Restraint_Thought.stages.0.label>sealed (deny)</Miho_Restraint_Thought.stages.0.label>
-  <Miho_Restraint_Thought.stages.0.description>What the heck are you doing! Take this off me!</Miho_Restraint_Thought.stages.0.description>
-  <Miho_Restraint_Thought.stages.1.label>sealed (partial)</Miho_Restraint_Thought.stages.1.label>
-  <Miho_Restraint_Thought.stages.1.description>yelp...</Miho_Restraint_Thought.stages.1.description>
-  <Miho_Restraint_Thought.stages.2.label>sealed (completed)</Miho_Restraint_Thought.stages.2.label>
-  <Miho_Restraint_Thought.stages.2.description>Please! Pat me, pat me!</Miho_Restraint_Thought.stages.2.description>
+
+  <SunlightSensitivity_Miho.stages.0.label>Купание в солнце</SunlightSensitivity_Miho.stages.0.label>
+  <SunlightSensitivity_Miho.stages.0.description>Хааах, как же мне это нрааавится…</SunlightSensitivity_Miho.stages.0.description>
+
+  <Miho_Restraint_Thought.stages.0.label>опечатано (отрицание)</Miho_Restraint_Thought.stages.0.label>
+  <Miho_Restraint_Thought.stages.0.description>Что, чёрт возьми, ты делаешь!? Сними это с меня!</Miho_Restraint_Thought.stages.0.description>
+
+  <Miho_Restraint_Thought.stages.1.label>опечатано (частично)</Miho_Restraint_Thought.stages.1.label>
+  <Miho_Restraint_Thought.stages.1.description>писк...</Miho_Restraint_Thought.stages.1.description>
+
+  <Miho_Restraint_Thought.stages.2.label>опечатано (полностью)</Miho_Restraint_Thought.stages.2.label>
+  <Miho_Restraint_Thought.stages.2.description>Пожалуйста! Погладь меня, погладь!</Miho_Restraint_Thought.stages.2.description>
 </LanguageData>

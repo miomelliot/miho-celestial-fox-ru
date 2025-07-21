@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <MihoCultures.label>Miho</MihoCultures.label>
-  <MihoCultures.description>Miho's culture.</MihoCultures.description>
+
+  <MihoCultures.label>Михо</MihoCultures.label>
+  <MihoCultures.description>Культура лис Михо.</MihoCultures.description>
+
 </LanguageData>
